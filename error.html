@@ -1,0 +1,47 @@
+<html>
+<head>
+<title>{error.title}</title>
+<!--
+THIS ERROR PAGE IS COPYRIGHT 2005-2006 SGS SOFTWARE. IT COMES
+AS A PART OF THE "DESKBROWSE" SOFTWARE PACKAGE AND THEREFORE
+COMES UNDER THE SAME LICENSE AS IT DOES.
+
+WRITTEN BY SIMON FREE ON WED 9TH NOVEMBER.
+-->
+<style type="text/CSS">
+body {
+    background:white;
+    font-family:"Lucida Grande",helvetica set;
+}
+#mainDiv {
+    position:absolute;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+    margin:auto;
+    background:url(error_bg.png) no-repeat;
+    width:375px;
+    height:221px;
+    padding-top:20px;
+    vertical-align:middle;
+    text-align:center;
+}
+#descText {
+    padding-left:24px;
+    padding-right:20px;
+    font-size:8pt;
+}
+</style>
+</head>
+<body>
+<div id="content">
+    <div id="mainDiv">
+        <h2>{error.title}</h2>
+        <div id="descText">
+{error.text}
+        </div>
+    </div>
+<div>
+</body>
+</html>

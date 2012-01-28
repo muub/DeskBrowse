@@ -1,0 +1,18 @@
+{
+    IBClasses = (
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {
+            ACTIONS = {refreshTheSourceCode = id; saveCode = id; showSourceWindow = id; }; 
+            CLASS = ViewSourceController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                refreshSourceCode = NSButton; 
+                save = NSButton; 
+                sourceView = NSTextView; 
+                sourceWindow = NSWindow; 
+            }; 
+            SUPERCLASS = NSWindowController; 
+        }
+    ); 
+    IBVersion = 1; 
+}

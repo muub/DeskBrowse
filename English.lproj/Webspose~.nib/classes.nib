@@ -1,0 +1,68 @@
+{
+    IBClasses = (
+        {
+            ACTIONS = {
+                back = id; 
+                close = id; 
+                forward = id; 
+                goHome = id; 
+                googleSearch = id; 
+                loadURL = id; 
+                newBlankTab = id; 
+                reload = id; 
+                selectTabLeft = id; 
+                selectTabRight = id; 
+                showDownloadWindow = id; 
+                showPrefWindow = id; 
+                showSourceWindow = id; 
+                stopLoading = id; 
+                websposeCancelPassword = id; 
+                websposeEnterPassword = id; 
+            }; 
+            CLASS = DeskBrowseController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                back = NSButton; 
+                downloadsButton = NSButton; 
+                faviconView = NSImageView; 
+                filler = NSImageView; 
+                forward = NSButton; 
+                home = NSButton; 
+                mainWindow = NSWindow; 
+                reload = NSButton; 
+                rightbar = NSImageView; 
+                searchField = NSSearchField; 
+                spinner = NSProgressIndicator; 
+                splitView = NSSplitView; 
+                statusField = NSTextField; 
+                stop = NSButton; 
+                tabBar = TabBar; 
+                tabBarBox = NSBox; 
+                tabView = NSTabView; 
+                titleField = NSTextField; 
+                urlField = NSTextField; 
+                webViewBox = NSBox; 
+                websposeBack = NSButton; 
+                websposeFaviconView = NSImageView; 
+                websposeForward = NSButton; 
+                websposePasswordField = NSTextField; 
+                websposePasswordStatus = NSTextField; 
+                websposePasswordWindow = NSPanel; 
+                websposeReload = NSButton; 
+                websposeSearchField = NSSearchField; 
+                websposeSpinner = NSProgressIndicator; 
+                websposeStatusField = NSTextField; 
+                websposeStop = NSButton; 
+                websposeTabBarBox = NSBox; 
+                websposeTitleField = NSTextField; 
+                websposeURLField = NSTextField; 
+                websposeWebViewBox = NSBox; 
+                websposeWindow = WebsposeWindow; 
+            }; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {CLASS = WebsposeWindow; LANGUAGE = ObjC; SUPERCLASS = NSWindow; }
+    ); 
+    IBVersion = 1; 
+}

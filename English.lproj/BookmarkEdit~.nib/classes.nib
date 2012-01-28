@@ -1,0 +1,14 @@
+{
+    IBClasses = (
+        {CLASS = BetterOutlineView; LANGUAGE = ObjC; SUPERCLASS = NSOutlineView; }, 
+        {
+            ACTIONS = {addBookmark = id; closeWindow = id; }; 
+            CLASS = BookmarkEditWindowController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {mOutlineView = BetterOutlineView; }; 
+            SUPERCLASS = NSWindowController; 
+        }, 
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }
+    ); 
+    IBVersion = 1; 
+}

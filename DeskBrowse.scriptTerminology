@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Commands</key>
+	<dict>
+		<key>Load</key>
+		<dict>
+			<key>Arguments</key>
+			<dict>
+				<key>page</key>
+				<dict>
+					<key>Description</key>
+					<string>The page to load.</string>
+					<key>Name</key>
+					<string>page</string>
+				</dict>
+			</dict>
+			<key>Description</key>
+			<string>Loads a webpage in the front tab.</string>
+			<key>Name</key>
+			<string>load</string>
+		</dict>
+		<key>Reload</key>
+		<dict>
+			<key>Description</key>
+			<string>Reloads the webpage in the front tab.</string>
+			<key>Name</key>
+			<string>reload</string>
+		</dict>
+	</dict>
+	<key>Description</key>
+	<string>DeskBrowse AppleScript Suite</string>
+	<key>Name</key>
+	<string>DeskBrowse</string>
+</dict>
+</plist>

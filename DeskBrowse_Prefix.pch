@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'DeskBrowse' target in the 'DeskBrowse' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif

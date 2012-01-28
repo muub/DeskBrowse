@@ -1,0 +1,50 @@
+{
+    IBClasses = (
+        {
+            ACTIONS = {
+                back = id; 
+                closeTab = id; 
+                forward = id; 
+                goHome = id; 
+                googleSearch = id; 
+                loadURL = id; 
+                newBlankTab = id; 
+                reload = id; 
+                selectTabLeft = id; 
+                selectTabRight = id; 
+                showDownloadWindow = id; 
+                showPrefWindow = id; 
+                showSourceWindow = id; 
+                stopLoading = id; 
+                toggleWebspose = id; 
+            }; 
+            CLASS = DeskBrowseController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                back = NSButton; 
+                downloadsButton = NSButton; 
+                faviconView = NSImageView; 
+                filler = NSImageView; 
+                forward = NSButton; 
+                home = NSButton; 
+                mainWindow = NSWindow; 
+                reload = NSButton; 
+                rightbar = NSImageView; 
+                searchField = NSSearchField; 
+                spinner = NSProgressIndicator; 
+                splitView = NSSplitView; 
+                statusField = NSTextField; 
+                stop = NSButton; 
+                tabBar = id; 
+                tabView = NSTabView; 
+                titleField = NSTextField; 
+                urlField = NSTextField; 
+            }; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {CLASS = TabBar; LANGUAGE = ObjC; SUPERCLASS = NSView; }, 
+        {CLASS = WebsposeWindow; LANGUAGE = ObjC; SUPERCLASS = NSWindow; }
+    ); 
+    IBVersion = 1; 
+}

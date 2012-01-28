@@ -1,0 +1,31 @@
+{
+    IBClasses = (
+        {CLASS = BezelTableView; LANGUAGE = ObjC; SUPERCLASS = NSTableView; }, 
+        {
+            CLASS = BezelWindow; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {textSubview = id; }; 
+            SUPERCLASS = NSWindow; 
+        }, 
+        {
+            ACTIONS = {
+                cancelAllDownloads = id; 
+                cancelSelected = id; 
+                clearDownloads = id; 
+                showDownloadInFinder = id; 
+            }; 
+            CLASS = DownloadController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {mDownloadTableView = NSTableView; }; 
+            SUPERCLASS = NSWindowController; 
+        }, 
+        {
+            CLASS = DownloadsView; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {delegate = id; }; 
+            SUPERCLASS = NSView; 
+        }, 
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }
+    ); 
+    IBVersion = 1; 
+}

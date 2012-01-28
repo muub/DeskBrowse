@@ -1,0 +1,21 @@
+{
+    IBClasses = (
+        {
+            ACTIONS = {importBookmarksFromSelectedBrowser = id; }; 
+            CLASS = BookmarkImportWindowController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                mDoneButton = NSButton; 
+                mImportButton = NSButton; 
+                mImportingProgressIndicator = NSProgressIndicator; 
+                mOtherBrowsersPopUpButton = NSPopUpButton; 
+                mSortBookmarksButton = NSButton; 
+                mStatusTextField = NSTextField; 
+            }; 
+            SUPERCLASS = NSWindowController; 
+        }, 
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {CLASS = LeveledWindow; LANGUAGE = ObjC; SUPERCLASS = NSWindow; }
+    ); 
+    IBVersion = 1; 
+}

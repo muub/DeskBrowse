@@ -1,0 +1,57 @@
+{
+    IBClasses = (
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {CLASS = LeveledWindow; LANGUAGE = ObjC; SUPERCLASS = NSWindow; }, 
+        {
+            ACTIONS = {
+                cancelPassword = id; 
+                changeDownloadLocation = id; 
+                changePassword = id; 
+                changeSBHotKey = id; 
+                changeWBHotKey = id; 
+                checkForUpdates = id; 
+                closeWindow = id; 
+                resetPreferences = id; 
+                savePassword = id; 
+                savePreferences = id; 
+            }; 
+            CLASS = PreferenceController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                allowAnimatedImages = id; 
+                allowImages = id; 
+                allowJava = id; 
+                allowJavaScript = id; 
+                allowPluginMedia = id; 
+                blockPopupWindows = id; 
+                blockWebAds = id; 
+                browserMode = id; 
+                changePasswordNew = id; 
+                changePasswordOld = id; 
+                changePasswordStatus = id; 
+                changePasswordVerify = id; 
+                changePasswordWindow = id; 
+                checkForUpdates = id; 
+                checkForUpdatesIndicator = id; 
+                downloadPathField = NSTextField; 
+                homePage = id; 
+                loadHomePageOnLaunch = id; 
+                sbHotKeyField = id; 
+                selectNewTabs = id; 
+                showMenuBarAndDock = id; 
+                showMenuExtra = id; 
+                tabView = NSTabView; 
+                wbHotKeyField = id; 
+            }; 
+            SUPERCLASS = NSWindowController; 
+        }, 
+        {
+            ACTIONS = {changeToTheme = id; defaultTheme = id; loadTheme = id; moreThemes = id; }; 
+            CLASS = ThemeController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {changeTheme = NSButton; themePreview = NSImageView; themes = NSTableView; }; 
+            SUPERCLASS = NSObject; 
+        }
+    ); 
+    IBVersion = 1; 
+}

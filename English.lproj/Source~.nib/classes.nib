@@ -1,0 +1,20 @@
+{
+    IBClasses = (
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {CLASS = LeveledWindow; LANGUAGE = ObjC; SUPERCLASS = NSWindow; }, 
+        {
+            CLASS = ViewSourceController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {sourceView = NSTextView; }; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {
+            ACTIONS = {refreshTheSourceCode = id; saveCode = id; }; 
+            CLASS = ViewSourceWindowController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {sourceView = NSTextView; status = NSProgressIndicator; }; 
+            SUPERCLASS = NSWindowController; 
+        }
+    ); 
+    IBVersion = 1; 
+}

@@ -1,0 +1,5715 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {808, 516}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {808, 516}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA = {
+		activeBuildStyle = 4A9504CCFFE6A4B311CA0CBA;
+		activeExecutable = 3CA039530810BF1200535CEC;
+		activeTarget = 8D1107260486CEB800E47090;
+		addToTargets = (
+			8D1107260486CEB800E47090,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 3CA039770810BF3300535CEC;
+		executables = (
+			3CA039530810BF1200535CEC,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXBookmarksDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBookmarksDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					200,
+					300,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBookmarksDataSource_LocationID,
+					PBXBookmarksDataSource_NameID,
+					PBXBookmarksDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = 1;
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					572,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.XCSCMDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					606,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_SCM_ColumnID,
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					200,
+					392,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 159575409;
+			PBXWorkspaceStateSaveDate = 159575409;
+		};
+		perUserProjectItems = {
+			3C0D6C18097252E40061F468 = 3C0D6C18097252E40061F468;
+			3C0D6C1A097252E40061F468 = 3C0D6C1A097252E40061F468;
+			3C0D6C37097252E40061F468 = 3C0D6C37097252E40061F468;
+			3C0D6C840972542B0061F468 = 3C0D6C840972542B0061F468;
+			3C0D6C890972542B0061F468 = 3C0D6C890972542B0061F468;
+			3C0D6DF5097329B80061F468 = 3C0D6DF5097329B80061F468;
+			3C1E447A09777DBE00BA6D07 = 3C1E447A09777DBE00BA6D07;
+			3C1E44BF097784E100BA6D07 = 3C1E44BF097784E100BA6D07;
+			3C1E44C3097784E100BA6D07 = 3C1E44C3097784E100BA6D07;
+			3C1E464109A474EE00BA6D07 = 3C1E464109A474EE00BA6D07;
+			3C23ABDB097D892E00587AB1 = 3C23ABDB097D892E00587AB1;
+			3C23ABDC097D892E00587AB1 = 3C23ABDC097D892E00587AB1;
+			3C23ABDD097D892E00587AB1 = 3C23ABDD097D892E00587AB1;
+			3C23ABE3097D892E00587AB1 = 3C23ABE3097D892E00587AB1;
+			3C23ABE4097D892E00587AB1 = 3C23ABE4097D892E00587AB1;
+			3C23ABE6097D892E00587AB1 = 3C23ABE6097D892E00587AB1;
+			3C23ABE7097D892E00587AB1 = 3C23ABE7097D892E00587AB1;
+			3C4AC66209706B65007F2254 = 3C4AC66209706B65007F2254;
+			3C4AC66909706BA4007F2254 = 3C4AC66909706BA4007F2254;
+			3C4AC66A09706BA4007F2254 = 3C4AC66A09706BA4007F2254;
+			3C4AC67509706C4D007F2254 = 3C4AC67509706C4D007F2254;
+			3C4AC67B09706CE0007F2254 = 3C4AC67B09706CE0007F2254;
+			3C4AC715097070D8007F2254 = 3C4AC715097070D8007F2254;
+			3C4AC716097070D8007F2254 = 3C4AC716097070D8007F2254;
+			3C4AC71B097070D8007F2254 = 3C4AC71B097070D8007F2254;
+			3C4AC71C097070D8007F2254 = 3C4AC71C097070D8007F2254;
+			3C4AC720097070D8007F2254 = 3C4AC720097070D8007F2254;
+			3C4AC7520970723C007F2254 = 3C4AC7520970723C007F2254;
+			3C4AC7530970723C007F2254 = 3C4AC7530970723C007F2254;
+			3C4AC78D09707345007F2254 = 3C4AC78D09707345007F2254;
+			3C4AC78E09707345007F2254 = 3C4AC78E09707345007F2254;
+			3C4AC78F09707345007F2254 = 3C4AC78F09707345007F2254;
+			3C4AC79109707345007F2254 = 3C4AC79109707345007F2254;
+			3C4AC79209707345007F2254 = 3C4AC79209707345007F2254;
+			3C4AC7A5097073CE007F2254 = 3C4AC7A5097073CE007F2254;
+			3C4AC7A6097073CE007F2254 = 3C4AC7A6097073CE007F2254;
+			3C4AC7A8097073CE007F2254 = 3C4AC7A8097073CE007F2254;
+			3C4AC7AB097073CE007F2254 = 3C4AC7AB097073CE007F2254;
+			3C4AC7B70970754E007F2254 = 3C4AC7B70970754E007F2254;
+			3C4AC7B90970754E007F2254 = 3C4AC7B90970754E007F2254;
+			3C4AC7C909707627007F2254 = 3C4AC7C909707627007F2254;
+			3C4AC7D209707666007F2254 = 3C4AC7D209707666007F2254;
+			3C4AC7D709707666007F2254 = 3C4AC7D709707666007F2254;
+			3C4AC7D809707666007F2254 = 3C4AC7D809707666007F2254;
+			3C4AC81C09707CF6007F2254 = 3C4AC81C09707CF6007F2254;
+			3C4AC89D0970850D007F2254 = 3C4AC89D0970850D007F2254;
+			3C4AC8A20970850D007F2254 = 3C4AC8A20970850D007F2254;
+			3C4AC90B097089C4007F2254 = 3C4AC90B097089C4007F2254;
+			3C4AC93B09708C17007F2254 = 3C4AC93B09708C17007F2254;
+			3C4AC94A09708EBF007F2254 = 3C4AC94A09708EBF007F2254;
+			3C4AC94B09708EBF007F2254 = 3C4AC94B09708EBF007F2254;
+			3C4AC94C09708EBF007F2254 = 3C4AC94C09708EBF007F2254;
+			3C4AC95409708EBF007F2254 = 3C4AC95409708EBF007F2254;
+			3C4B7ABA0976443200BE886A = 3C4B7ABA0976443200BE886A;
+			3C50C0220975F44F00832952 = 3C50C0220975F44F00832952;
+			3C59CC130982F3D3001023F6 = 3C59CC130982F3D3001023F6;
+			3C59CC140982F3D3001023F6 = 3C59CC140982F3D3001023F6;
+			3C59CC190982F45C001023F6 = 3C59CC190982F45C001023F6;
+			3C59CC200982F4C1001023F6 = 3C59CC200982F4C1001023F6;
+			3C59CC320982F5C0001023F6 = 3C59CC320982F5C0001023F6;
+			3C59CC390982F5DB001023F6 = 3C59CC390982F5DB001023F6;
+			3C59CC3A0982F5DB001023F6 = 3C59CC3A0982F5DB001023F6;
+			3C6A82690980E3C6003B511E = 3C6A82690980E3C6003B511E;
+			3C6A826A0980E3C6003B511E = 3C6A826A0980E3C6003B511E;
+			3C6A826C0980E3C6003B511E = 3C6A826C0980E3C6003B511E;
+			3C6A82860980E63F003B511E = 3C6A82860980E63F003B511E;
+			3C6A82BA0980E6A2003B511E = 3C6A82BA0980E6A2003B511E;
+			3C6A82CE0980E750003B511E = 3C6A82CE0980E750003B511E;
+			3C6A82CF0980E750003B511E = 3C6A82CF0980E750003B511E;
+			3C6A82D50980E750003B511E = 3C6A82D50980E750003B511E;
+			3C6A83050980E94F003B511E = 3C6A83050980E94F003B511E;
+			3C6A83160980E9A0003B511E = 3C6A83160980E9A0003B511E;
+			3C6A832C0980EA52003B511E = 3C6A832C0980EA52003B511E;
+			3C6A832D0980EA52003B511E = 3C6A832D0980EA52003B511E;
+			3C70827B09820CDD001E843D = 3C70827B09820CDD001E843D;
+			3C7082B709820F00001E843D = 3C7082B709820F00001E843D;
+			3C729424097F0F010006A4A7 = 3C729424097F0F010006A4A7;
+			3C72943E097F10350006A4A7 = 3C72943E097F10350006A4A7;
+			3C729440097F10350006A4A7 = 3C729440097F10350006A4A7;
+			3C7755410981E544008DEEF8 = 3C7755410981E544008DEEF8;
+			3C7755460981E544008DEEF8 = 3C7755460981E544008DEEF8;
+			3C7755650981E7A9008DEEF8 = 3C7755650981E7A9008DEEF8;
+			3C77556E0981E7DF008DEEF8 = 3C77556E0981E7DF008DEEF8;
+			3C7755F80981F000008DEEF8 = 3C7755F80981F000008DEEF8;
+			3C7756540981F4AC008DEEF8 = 3C7756540981F4AC008DEEF8;
+			3C98F93009824B4F009300D5 = 3C98F93009824B4F009300D5;
+			3C98F93109824B4F009300D5 = 3C98F93109824B4F009300D5;
+			3C98F93209824B4F009300D5 = 3C98F93209824B4F009300D5;
+			3C9DF53D097F61A300097A3F = 3C9DF53D097F61A300097A3F;
+			3C9DF554097F626500097A3F = 3C9DF554097F626500097A3F;
+			3CAB9C5A09410E160088047D = 3CAB9C5A09410E160088047D;
+			3CAB9C88094111C00088047D = 3CAB9C88094111C00088047D;
+			3CBFBCB90970FDC70042CD55 = 3CBFBCB90970FDC70042CD55;
+			3CBFBCD50970FEB00042CD55 = 3CBFBCD50970FEB00042CD55;
+			3CC113A20981B4E000B9616F = 3CC113A20981B4E000B9616F;
+			3CC113A50981B4E000B9616F = 3CC113A50981B4E000B9616F;
+			3CC113A70981B4E000B9616F = 3CC113A70981B4E000B9616F;
+			3CC113A90981B4E000B9616F = 3CC113A90981B4E000B9616F;
+			3CC113AA0981B4E000B9616F = 3CC113AA0981B4E000B9616F;
+			3CC113CE0981B8EB00B9616F = 3CC113CE0981B8EB00B9616F;
+			3CC113CF0981B8EB00B9616F = 3CC113CF0981B8EB00B9616F;
+			3CC113D30981B8EB00B9616F = 3CC113D30981B8EB00B9616F;
+			3CC113D40981B8EB00B9616F = 3CC113D40981B8EB00B9616F;
+			3CCE0D80097CAC6100FE48ED = 3CCE0D80097CAC6100FE48ED;
+			3CCE0D8B097CADC100FE48ED = 3CCE0D8B097CADC100FE48ED;
+			3CCE0DE2097CB37700FE48ED = 3CCE0DE2097CB37700FE48ED;
+			3CCE0E1F098197190059C9A3 = 3CCE0E1F098197190059C9A3;
+			3CCE0E21098197190059C9A3 = 3CCE0E21098197190059C9A3;
+			3CCE0E22098197190059C9A3 = 3CCE0E22098197190059C9A3;
+			3CCE0E4C098197D80059C9A3 = 3CCE0E4C098197D80059C9A3;
+			3CCE0E4D098197D80059C9A3 = 3CCE0E4D098197D80059C9A3;
+			3CCE0E4E098197D80059C9A3 = 3CCE0E4E098197D80059C9A3;
+			3CCE0E55098197D80059C9A3 = 3CCE0E55098197D80059C9A3;
+			3CCE0E57098197D80059C9A3 = 3CCE0E57098197D80059C9A3;
+			3CCE0E81098198930059C9A3 = 3CCE0E81098198930059C9A3;
+			3CCE0ED509819A410059C9A3 = 3CCE0ED509819A410059C9A3;
+			3CCE0ED609819A410059C9A3 = 3CCE0ED609819A410059C9A3;
+			3CCE0ED909819A410059C9A3 = 3CCE0ED909819A410059C9A3;
+			3CCE0F2109819D8B0059C9A3 = 3CCE0F2109819D8B0059C9A3;
+			3CCE0F2209819D8B0059C9A3 = 3CCE0F2209819D8B0059C9A3;
+			3CCE0F2309819D8B0059C9A3 = 3CCE0F2309819D8B0059C9A3;
+			3CCE0F2709819D8B0059C9A3 = 3CCE0F2709819D8B0059C9A3;
+			3CCE0F2E09819DC00059C9A3 = 3CCE0F2E09819DC00059C9A3;
+			3CCE0F390981A1760059C9A3 = 3CCE0F390981A1760059C9A3;
+			3CCE0F3A0981A1760059C9A3 = 3CCE0F3A0981A1760059C9A3;
+			3CCE0F3E0981A1760059C9A3 = 3CCE0F3E0981A1760059C9A3;
+			3CCEB68B097E179500ADE3CB = 3CCEB68B097E179500ADE3CB;
+			3CCEB68C097E179500ADE3CB = 3CCEB68C097E179500ADE3CB;
+			3CCEB6A7097E187400ADE3CB = 3CCEB6A7097E187400ADE3CB;
+			3CCEB6AB097E187400ADE3CB = 3CCEB6AB097E187400ADE3CB;
+			3CCEB6B4097E18F100ADE3CB = 3CCEB6B4097E18F100ADE3CB;
+			3CDAC8D7097F9082007EE735 = 3CDAC8D7097F9082007EE735;
+			3CDDABDF098230D00064BF17 = 3CDDABDF098230D00064BF17;
+			3CDDAC04098231E10064BF17 = 3CDDAC04098231E10064BF17;
+			3CDDAC05098231E10064BF17 = 3CDDAC05098231E10064BF17;
+			3CDDAC07098231E10064BF17 = 3CDDAC07098231E10064BF17;
+			3CDDAC09098231E10064BF17 = 3CDDAC09098231E10064BF17;
+			3CDDAC32098233B40064BF17 = 3CDDAC32098233B40064BF17;
+			3CDDAC61098235D00064BF17 = 3CDDAC61098235D00064BF17;
+			3CDDAC65098235D00064BF17 = 3CDDAC65098235D00064BF17;
+			3CDDAC83098237910064BF17 = 3CDDAC83098237910064BF17;
+			3CDDAC84098237910064BF17 = 3CDDAC84098237910064BF17;
+			3CDDAC85098237910064BF17 = 3CDDAC85098237910064BF17;
+			3CDDAC86098237910064BF17 = 3CDDAC86098237910064BF17;
+			3CDDAC87098237910064BF17 = 3CDDAC87098237910064BF17;
+			3CDDAC88098237910064BF17 = 3CDDAC88098237910064BF17;
+			3CDDAC89098237910064BF17 = 3CDDAC89098237910064BF17;
+			3CDDAC8A098237910064BF17 = 3CDDAC8A098237910064BF17;
+			3CDDAC8B098237910064BF17 = 3CDDAC8B098237910064BF17;
+			3CDDAC8C098237910064BF17 = 3CDDAC8C098237910064BF17;
+			3CDDAC8D098237910064BF17 = 3CDDAC8D098237910064BF17;
+			3CDDAC8E098237910064BF17 = 3CDDAC8E098237910064BF17;
+			3CDDAC8F098237910064BF17 = 3CDDAC8F098237910064BF17;
+			3CDDAC90098237910064BF17 = 3CDDAC90098237910064BF17;
+			3CDDAC91098237910064BF17 = 3CDDAC91098237910064BF17;
+			3CDDAC92098237910064BF17 = 3CDDAC92098237910064BF17;
+			3CDDAC93098237910064BF17 = 3CDDAC93098237910064BF17;
+			3CDDAC94098237910064BF17 = 3CDDAC94098237910064BF17;
+			3CDDAC95098237910064BF17 = 3CDDAC95098237910064BF17;
+			3CDDAC96098237910064BF17 = 3CDDAC96098237910064BF17;
+			3CDDAC97098237910064BF17 = 3CDDAC97098237910064BF17;
+			3CDDAC98098237910064BF17 = 3CDDAC98098237910064BF17;
+			3CDDAC99098237910064BF17 = 3CDDAC99098237910064BF17;
+			3CDDAC9A098237910064BF17 = 3CDDAC9A098237910064BF17;
+			3CDDAC9B098237910064BF17 = 3CDDAC9B098237910064BF17;
+			3CDDAC9C098237910064BF17 = 3CDDAC9C098237910064BF17;
+			3CDDAC9D098237910064BF17 = 3CDDAC9D098237910064BF17;
+			3CDDAC9F098237910064BF17 = 3CDDAC9F098237910064BF17;
+			3CDDACA0098237910064BF17 = 3CDDACA0098237910064BF17;
+			3CDDACA1098237910064BF17 = 3CDDACA1098237910064BF17;
+			3CDDACA2098237910064BF17 = 3CDDACA2098237910064BF17;
+			3CDDACA3098237910064BF17 = 3CDDACA3098237910064BF17;
+			3CDDACA4098237910064BF17 = 3CDDACA4098237910064BF17;
+			3CDDACA6098237910064BF17 = 3CDDACA6098237910064BF17;
+			3CDDACA7098237910064BF17 = 3CDDACA7098237910064BF17;
+			3CDDACA8098237910064BF17 = 3CDDACA8098237910064BF17;
+			3CDDACA9098237910064BF17 = 3CDDACA9098237910064BF17;
+			3CDDACAA098237910064BF17 = 3CDDACAA098237910064BF17;
+			3CDDACAB098237910064BF17 = 3CDDACAB098237910064BF17;
+			3CDDACAC098237910064BF17 = 3CDDACAC098237910064BF17;
+			3CDDACAD098237910064BF17 = 3CDDACAD098237910064BF17;
+			3CDDACAE098237910064BF17 = 3CDDACAE098237910064BF17;
+			3CDDACAF098237910064BF17 = 3CDDACAF098237910064BF17;
+			3CDDACB0098237910064BF17 = 3CDDACB0098237910064BF17;
+			3CDDACB2098237910064BF17 = 3CDDACB2098237910064BF17;
+			3CDDACB3098237910064BF17 = 3CDDACB3098237910064BF17;
+			3CDDACB4098237910064BF17 = 3CDDACB4098237910064BF17;
+			3CDDACB5098237910064BF17 = 3CDDACB5098237910064BF17;
+			3CDDACB6098237910064BF17 = 3CDDACB6098237910064BF17;
+			3CDDACB7098237910064BF17 = 3CDDACB7098237910064BF17;
+			3CDDACB8098237910064BF17 = 3CDDACB8098237910064BF17;
+			3CDDACB9098237910064BF17 = 3CDDACB9098237910064BF17;
+			3CDDACBA098237910064BF17 = 3CDDACBA098237910064BF17;
+			3CDDACC3098238BD0064BF17 = 3CDDACC3098238BD0064BF17;
+			3CDDACC4098238BD0064BF17 = 3CDDACC4098238BD0064BF17;
+			3CDDACC5098238BD0064BF17 = 3CDDACC5098238BD0064BF17;
+			3CDDACF7098239EE0064BF17 = 3CDDACF7098239EE0064BF17;
+			3CE212580974D64B00BCE121 = 3CE212580974D64B00BCE121;
+			3CF162CE097DCB130022E886 = 3CF162CE097DCB130022E886;
+			3CF16352097DD5E40022E886 = 3CF16352097DD5E40022E886;
+			3CF16357097DD5E40022E886 = 3CF16357097DD5E40022E886;
+			3CF163D4097DE0D90022E886 = 3CF163D4097DE0D90022E886;
+			3CF163D8097DE0D90022E886 = 3CF163D8097DE0D90022E886;
+			3CF54240097CBBA100D86BA6 = 3CF54240097CBBA100D86BA6;
+			3CF8C7AE098086C500C26230 = 3CF8C7AE098086C500C26230;
+		};
+		sourceControlManager = 3CA039760810BF3300535CEC;
+		userBookmarkGroup = 3CCE6A8008302AED000012F5;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {831, 570}}";
+			sepNavSelRange = "{197, 17}";
+			sepNavVisRect = "{{0, 0}, {831, 570}}";
+			sepNavWindowFrame = "{{84, 120}, {896, 558}}";
+		};
+	};
+	3C090135083EF1A000D767CF = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {782, 574}}";
+			sepNavSelRange = "{698, 0}";
+			sepNavVisRect = "{{0, 0}, {782, 570}}";
+		};
+	};
+	3C090136083EF1A000D767CF = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1004, 4270}}";
+			sepNavSelRange = "{4456, 18}";
+			sepNavVisRect = "{{0, 1944}, {907, 411}}";
+			sepNavWindowFrame = "{{38, 180}, {946, 540}}";
+		};
+	};
+	3C090215083F2F5F00D767CF = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {782, 570}}";
+			sepNavSelRange = "{333, 12}";
+			sepNavVisRect = "{{0, 0}, {782, 570}}";
+			sepNavWindowFrame = "{{61, 141}, {896, 558}}";
+		};
+	};
+	3C090216083F2F5F00D767CF = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {782, 1134}}";
+			sepNavSelRange = "{704, 122}";
+			sepNavVisRect = "{{0, 252}, {782, 570}}";
+			sepNavWindowFrame = "{{38, 162}, {896, 558}}";
+		};
+	};
+	3C0902B4083F33EA00D767CF = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {782, 570}}";
+			sepNavSelRange = "{230, 0}";
+			sepNavVisRect = "{{0, 0}, {782, 570}}";
+		};
+	};
+	3C0902B5083F33EA00D767CF = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1262, 1428}}";
+			sepNavSelRange = "{219, 0}";
+			sepNavVisRect = "{{0, 0}, {782, 570}}";
+			sepNavWindowFrame = "{{15, 92}, {930, 649}}";
+		};
+	};
+	3C0D6C18097252E40061F468 = {
+		fRef = 3C0D6C19097252E40061F468;
+		isa = PBXTextBookmark;
+		name = "(null): 178";
+		rLen = 0;
+		rLoc = 6855;
+		rType = 0;
+		vrLen = 1987;
+		vrLoc = 5648;
+	};
+	3C0D6C19097252E40061F468 = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = AppController.m;
+		path = /Developer/Examples/Foundation/XMLBrowser/AppController.m;
+		refType = 0;
+		sourceTree = "<absolute>";
+	};
+	3C0D6C1A097252E40061F468 = {
+		fRef = 3C0D6C1B097252E40061F468;
+		isa = PBXTextBookmark;
+		name = NSError;
+		rLen = 7;
+		rLoc = 63925;
+		rType = 0;
+		vrLen = 1308;
+		vrLoc = 63211;
+	};
+	3C0D6C1B097252E40061F468 = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = DeskBrowseController.m;
+		path = "/Users/ian/Projects/Big Projects/DeskBrowse/Test Folder/DeskBrowse 12-15-05/DeskBrowseController.m";
+		refType = 0;
+		sourceTree = "<absolute>";
+	};
+	3C0D6C37097252E40061F468 = {
+		fRef = 3C0D6C38097252E40061F468;
+		isa = PBXTextBookmark;
+		name = NSError;
+		rLen = 7;
+		rLoc = 63925;
+		rType = 0;
+		vrLen = 1308;
+		vrLoc = 63211;
+	};
+	3C0D6C38097252E40061F468 = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = DeskBrowseController.m;
+		path = "/Users/ian/Projects/Big Projects/DeskBrowse/Test Folder/DeskBrowse 12-15-05/DeskBrowseController.m";
+		refType = 0;
+		sourceTree = "<absolute>";
+	};
+	3C0D6C840972542B0061F468 = {
+		fRef = 3C17E81C0851548F00D65194;
+		isa = PBXTextBookmark;
+		name = "HotKeyTextField.m: 92";
+		rLen = 0;
+		rLoc = 1399;
+		rType = 0;
+		vrLen = 547;
+		vrLoc = 1166;
+	};
+	3C0D6C890972542B0061F468 = {
+		fRef = 3C17E81C0851548F00D65194;
+		isa = PBXTextBookmark;
+		name = "HotKeyTextField.m: 92";
+		rLen = 0;
+		rLoc = 1399;
+		rType = 0;
+		vrLen = 547;
+		vrLoc = 1166;
+	};
+	3C0D6DF5097329B80061F468 = {
+		fRef = 3C4AC66F09706BDF007F2254;
+		isa = PBXTextBookmark;
+		name = "HTMLParser.h: 10";
+		rLen = 0;
+		rLoc = 162;
+		rType = 0;
+		vrLen = 558;
+		vrLoc = 0;
+	};
+	3C13926F083341C1008D5217 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 569}}";
+			sepNavSelRange = "{212, 0}";
+			sepNavVisRect = "{{0, 0}, {770, 569}}";
+		};
+	};
+	3C139270083341C1008D5217 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {884, 630}}";
+			sepNavSelRange = "{788, 0}";
+			sepNavVisRect = "{{0, 0}, {0, 0}}";
+		};
+	};
+	3C17E81B0851548F00D65194 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {831, 570}}";
+			sepNavSelRange = "{339, 0}";
+			sepNavVisRect = "{{0, 0}, {831, 570}}";
+			sepNavWindowFrame = "{{61, 152}, {930, 649}}";
+		};
+	};
+	3C17E81C0851548F00D65194 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 2478}}";
+			sepNavSelRange = "{1399, 0}";
+			sepNavVisRect = "{{0, 1012}, {770, 570}}";
+		};
+	};
+	3C17E96C0851620500D65194 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {831, 570}}";
+			sepNavSelRange = "{336, 0}";
+			sepNavVisRect = "{{0, 0}, {831, 570}}";
+		};
+	};
+	3C17E96D0851620500D65194 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1004, 6916}}";
+			sepNavSelRange = "{1387, 0}";
+			sepNavVisRect = "{{0, 648}, {831, 570}}";
+		};
+	};
+	3C1E447A09777DBE00BA6D07 = {
+		fRef = 3C9F8268084FF8CC006E2AD4;
+		isa = PBXTextBookmark;
+		name = "HotKeyController.m: 205";
+		rLen = 0;
+		rLoc = 4000;
+		rType = 0;
+		vrLen = 821;
+		vrLoc = 3635;
+	};
+	3C1E44BF097784E100BA6D07 = {
+		fRef = 5D0D85550860FC7F001BD07E;
+		isa = PBXTextBookmark;
+		name = "NSFileManagerSGSAdditions.h: 19";
+		rLen = 0;
+		rLoc = 364;
+		rType = 0;
+		vrLen = 364;
+		vrLoc = 0;
+	};
+	3C1E44C3097784E100BA6D07 = {
+		fRef = 5D0D85550860FC7F001BD07E;
+		isa = PBXTextBookmark;
+		name = "NSFileManagerSGSAdditions.h: 19";
+		rLen = 0;
+		rLoc = 364;
+		rType = 0;
+		vrLen = 364;
+		vrLoc = 0;
+	};
+	3C1E464109A474EE00BA6D07 = {
+		fRef = 3CE212510974D63700BCE121;
+		isa = PBXTextBookmark;
+		name = "ZonicKRM.h: kZKRMLanguageSystem";
+		rLen = 0;
+		rLoc = 3077;
+		rType = 0;
+		vrLen = 1193;
+		vrLoc = 13010;
+	};
+	3C23ABDB097D892E00587AB1 = {
+		fRef = 5D7C117C0950C42F00D3B426;
+		isa = PBXTextBookmark;
+		name = "LeveledWindow.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 895;
+		vrLoc = 0;
+	};
+	3C23ABDC097D892E00587AB1 = {
+		fRef = 5DDB85EE0874641A00D768C4;
+		isa = PBXTextBookmark;
+		name = "ActionMenuWindow.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 885;
+		vrLoc = 0;
+	};
+	3C23ABDD097D892E00587AB1 = {
+		fRef = 3C13926F083341C1008D5217;
+		isa = PBXTextBookmark;
+		name = "WebsposeWindow.h: 18";
+		rLen = 0;
+		rLoc = 212;
+		rType = 0;
+		vrLen = 213;
+		vrLoc = 0;
+	};
+	3C23ABE3097D892E00587AB1 = {
+		fRef = 5D7C117C0950C42F00D3B426;
+		isa = PBXTextBookmark;
+		name = "LeveledWindow.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 895;
+		vrLoc = 0;
+	};
+	3C23ABE4097D892E00587AB1 = {
+		fRef = 5DDB85EE0874641A00D768C4;
+		isa = PBXTextBookmark;
+		name = "ActionMenuWindow.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 885;
+		vrLoc = 0;
+	};
+	3C23ABE6097D892E00587AB1 = {
+		fRef = 3C13926F083341C1008D5217;
+		isa = PBXTextBookmark;
+		name = "WebsposeWindow.h: 18";
+		rLen = 0;
+		rLoc = 212;
+		rType = 0;
+		vrLen = 213;
+		vrLoc = 0;
+	};
+	3C23ABE7097D892E00587AB1 = {
+		fRef = 5DCC3E1407DA2E9F00CD28CF;
+		isa = PBXTextBookmark;
+		name = "SlideWindow.h: snapping";
+		rLen = 0;
+		rLoc = 521;
+		rType = 0;
+		vrLen = 980;
+		vrLoc = 0;
+	};
+	3C23D85208343E89008CF93E = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {782, 570}}";
+			sepNavSelRange = "{279, 6}";
+			sepNavVisRect = "{{0, 0}, {782, 570}}";
+			sepNavWindowFrame = "{{15, 219}, {977, 522}}";
+		};
+	};
+	3C23D85308343E89008CF93E = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {884, 2184}}";
+			sepNavSelRange = "{2679, 0}";
+			sepNavVisRect = "{{0, 1316}, {770, 568}}";
+			sepNavWindowFrame = "{{15, 183}, {896, 558}}";
+		};
+	};
+	3C2A096E083703F0003410F4 = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSWindow.h;
+		path = /System/Library/Frameworks/AppKit.framework/Versions/C/Headers/NSWindow.h;
+		refType = 0;
+		sourceTree = "<absolute>";
+	};
+	3C2A0973083704AB003410F4 = {
+		fRef = 3C2A096E083703F0003410F4;
+		isa = PBXTextBookmark;
+		name = stylemask;
+		rLen = 34;
+		rLoc = 2653;
+		rType = 0;
+		vrLen = 846;
+		vrLoc = 2419;
+	};
+	3C4AC66209706B65007F2254 = {
+		fRef = 5D0B7203096DECEF0065CC84;
+		isa = PBXTextBookmark;
+		name = "BookmarkImportWindowController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 959;
+		vrLoc = 0;
+	};
+	3C4AC66909706BA4007F2254 = {
+		fRef = 5D0B7200096DECEF0065CC84;
+		isa = PBXTextBookmark;
+		name = "BookmarkImporter.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1325;
+		vrLoc = 0;
+	};
+	3C4AC66A09706BA4007F2254 = {
+		fRef = 5D0B7204096DECEF0065CC84;
+		isa = PBXTextBookmark;
+		name = "BookmarkObject.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 365;
+		vrLoc = 0;
+	};
+	3C4AC66E09706BDF007F2254 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1208, 3094}}";
+			sepNavSelRange = "{6192, 0}";
+			sepNavVisRect = "{{0, 74}, {770, 568}}";
+			sepNavWindowFrame = "{{15, 183}, {895, 558}}";
+		};
+	};
+	3C4AC66F09706BDF007F2254 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 570}}";
+			sepNavSelRange = "{162, 0}";
+			sepNavVisRect = "{{0, 0}, {770, 570}}";
+		};
+	};
+	3C4AC67509706C4D007F2254 = {
+		fRef = 5D0B7205096DECEF0065CC84;
+		isa = PBXTextBookmark;
+		name = "BookmarkObject.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 659;
+		vrLoc = 0;
+	};
+	3C4AC67B09706CE0007F2254 = {
+		fRef = 3C4AC66E09706BDF007F2254;
+		isa = PBXTextBookmark;
+		name = "HTMLParser.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1068;
+		vrLoc = 0;
+	};
+	3C4AC715097070D8007F2254 = {
+		fRef = 5DB09912095A58F6007345BF;
+		isa = PBXTextBookmark;
+		name = "AntiPhisingValidator.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 628;
+		vrLoc = 0;
+	};
+	3C4AC716097070D8007F2254 = {
+		fRef = 5DCD5D5809520F0900EB232A;
+		isa = PBXTextBookmark;
+		name = "ThreadWorker.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1013;
+		vrLoc = 0;
+	};
+	3C4AC71B097070D8007F2254 = {
+		fRef = 5DB09912095A58F6007345BF;
+		isa = PBXTextBookmark;
+		name = "AntiPhisingValidator.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 628;
+		vrLoc = 0;
+	};
+	3C4AC71C097070D8007F2254 = {
+		fRef = 5DCD5D5809520F0900EB232A;
+		isa = PBXTextBookmark;
+		name = "ThreadWorker.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1013;
+		vrLoc = 0;
+	};
+	3C4AC720097070D8007F2254 = {
+		fRef = 5D0B71D2096DEA910065CC84;
+		isa = PBXTextBookmark;
+		name = "WebsposePassword.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 365;
+		vrLoc = 0;
+	};
+	3C4AC7520970723C007F2254 = {
+		fRef = 3C50ADE10816FF6C003E6073;
+		isa = PBXTextBookmark;
+		name = "PreferenceController.m: 23";
+		rLen = 0;
+		rLoc = 414;
+		rType = 0;
+		vrLen = 743;
+		vrLoc = 0;
+	};
+	3C4AC7530970723C007F2254 = {
+		fRef = 5D0B71D3096DEA910065CC84;
+		isa = PBXTextBookmark;
+		name = KeychainAc;
+		rLen = 10;
+		rLoc = 639;
+		rType = 0;
+		vrLen = 978;
+		vrLoc = 0;
+	};
+	3C4AC76909707295007F2254 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {773, 336}}";
+			sepNavSelRange = "{489, 0}";
+			sepNavVisRect = "{{0, 0}, {0, 0}}";
+		};
+	};
+	3C4AC76A09707295007F2254 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1070, 2058}}";
+			sepNavSelRange = "{3415, 4}";
+			sepNavVisRect = "{{0, 0}, {0, 0}}";
+			sepNavWindowFrame = "{{84, 120}, {895, 558}}";
+		};
+	};
+	3C4AC78D09707345007F2254 = {
+		fRef = 3C4AC76909707295007F2254;
+		isa = PBXTextBookmark;
+		name = "KeychainAccess.h: passwordFromKeychainWithName:account:";
+		rLen = 0;
+		rLoc = 489;
+		rType = 0;
+		vrLen = 668;
+		vrLoc = 0;
+	};
+	3C4AC78E09707345007F2254 = {
+		fRef = 5D0B71D3096DEA910065CC84;
+		isa = PBXTextBookmark;
+		name = "WebsposePassword.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1008;
+		vrLoc = 175;
+	};
+	3C4AC78F09707345007F2254 = {
+		fRef = 5D0B71D2096DEA910065CC84;
+		isa = PBXTextBookmark;
+		name = "WebsposePassword.h: 11";
+		rLen = 0;
+		rLoc = 202;
+		rType = 0;
+		vrLen = 339;
+		vrLoc = 0;
+	};
+	3C4AC79109707345007F2254 = {
+		fRef = 3C4AC76909707295007F2254;
+		isa = PBXTextBookmark;
+		name = "KeychainAccess.h: passwordFromKeychainWithName:account:";
+		rLen = 0;
+		rLoc = 489;
+		rType = 0;
+		vrLen = 668;
+		vrLoc = 0;
+	};
+	3C4AC79209707345007F2254 = {
+		fRef = 3C4AC76A09707295007F2254;
+		isa = PBXTextBookmark;
+		name = "@end";
+		rLen = 4;
+		rLoc = 3415;
+		rType = 0;
+		vrLen = 700;
+		vrLoc = 2719;
+	};
+	3C4AC7A5097073CE007F2254 = {
+		fRef = 3C4AC76A09707295007F2254;
+		isa = PBXTextBookmark;
+		name = "@end";
+		rLen = 4;
+		rLoc = 3415;
+		rType = 0;
+		vrLen = 700;
+		vrLoc = 2719;
+	};
+	3C4AC7A6097073CE007F2254 = {
+		fRef = 3C4AC7A7097073CE007F2254;
+		isa = PBXTextBookmark;
+		name = "(null): 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1466;
+		vrLoc = 0;
+	};
+	3C4AC7A7097073CE007F2254 = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = LisaHandle.m;
+		path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 12-15-05 2/LisaHandle.m";
+		refType = 0;
+		sourceTree = "<absolute>";
+	};
+	3C4AC7A8097073CE007F2254 = {
+		fRef = 5D0636FA08DCBE2E0023F84C;
+		isa = PBXTextBookmark;
+		name = NSDictionary;
+		rLen = 12;
+		rLoc = 189;
+		rType = 0;
+		vrLen = 1466;
+		vrLoc = 0;
+	};
+	3C4AC7AB097073CE007F2254 = {
+		fRef = 5D0636FA08DCBE2E0023F84C;
+		isa = PBXTextBookmark;
+		name = NSDictionary;
+		rLen = 12;
+		rLoc = 189;
+		rType = 0;
+		vrLen = 1466;
+		vrLoc = 0;
+	};
+	3C4AC7B70970754E007F2254 = {
+		fRef = 5D2088C90860D0D1000F5718;
+		isa = PBXTextBookmark;
+		name = "NSDataExtension.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 219;
+		vrLoc = 0;
+	};
+	3C4AC7B90970754E007F2254 = {
+		fRef = 5D2088C90860D0D1000F5718;
+		isa = PBXTextBookmark;
+		name = "NSDataExtension.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 219;
+		vrLoc = 0;
+	};
+	3C4AC7C909707627007F2254 = {
+		fRef = 5D0B71FE096DECEF0065CC84;
+		isa = PBXTextBookmark;
+		name = "BookmarkBarPopUpButton.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 377;
+		vrLoc = 0;
+	};
+	3C4AC7D209707666007F2254 = {
+		fRef = 5D0B7204096DECEF0065CC84;
+		isa = PBXTextBookmark;
+		name = "BookmarkObject.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 365;
+		vrLoc = 0;
+	};
+	3C4AC7D709707666007F2254 = {
+		fRef = 3C9600F4092D7C1500C1D3DC;
+		isa = PBXTextBookmark;
+		name = "Bookmark.m: 224";
+		rLen = 0;
+		rLoc = 5115;
+		rType = 0;
+		vrLen = 1721;
+		vrLoc = 522;
+	};
+	3C4AC7D809707666007F2254 = {
+		fRef = 3C9600F3092D7C1500C1D3DC;
+		isa = PBXTextBookmark;
+		name = "Bookmark.h: 15";
+		rLen = 0;
+		rLoc = 331;
+		rType = 0;
+		vrLen = 814;
+		vrLoc = 0;
+	};
+	3C4AC81809707CF6007F2254 = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = SHFireFoxBookmarksImporter.m;
+		path = "/Users/ian/Public/Drop Box/adium-0.86/Plugins/Bookmarks Importer/SHFireFoxBookmarksImporter.m";
+		refType = 0;
+		sourceTree = "<absolute>";
+	};
+	3C4AC81C09707CF6007F2254 = {
+		fRef = 3C4AC81D09707CF6007F2254;
+		isa = PBXTextBookmark;
+		name = "NSFileManager *mgr = [NSFileManager defaultManager];";
+		rLen = 54;
+		rLoc = 1574;
+		rType = 0;
+		vrLen = 1049;
+		vrLoc = 1467;
+	};
+	3C4AC81D09707CF6007F2254 = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = SHFireFoxBookmarksImporter.m;
+		path = "/Users/ian/Public/Drop Box/adium-0.86/Plugins/Bookmarks Importer/SHFireFoxBookmarksImporter.m";
+		refType = 0;
+		sourceTree = "<absolute>";
+	};
+	3C4AC89D0970850D007F2254 = {
+		fRef = 3C9600E7092D7BAB00C1D3DC;
+		isa = PBXTextBookmark;
+		name = "BookmarkBar.h: 10";
+		rLen = 0;
+		rLoc = 166;
+		rType = 0;
+		vrLen = 949;
+		vrLoc = 0;
+	};
+	3C4AC8A20970850D007F2254 = {
+		fRef = 3C4AC66F09706BDF007F2254;
+		isa = PBXTextBookmark;
+		name = kLinkTitleKey;
+		rLen = 13;
+		rLoc = 181;
+		rType = 0;
+		vrLen = 544;
+		vrLoc = 0;
+	};
+	3C4AC905097089C4007F2254 = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = SHMozillaBookmarksImporter.m;
+		path = "/Users/ian/Public/Drop Box/adium-0.86/Plugins/Bookmarks Importer/SHMozillaBookmarksImporter.m";
+		refType = 0;
+		sourceTree = "<absolute>";
+	};
+	3C4AC90B097089C4007F2254 = {
+		fRef = 3C4AC90C097089C4007F2254;
+		isa = PBXTextBookmark;
+		name = "(null): 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1481;
+		vrLoc = 399;
+	};
+	3C4AC90C097089C4007F2254 = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = SHMozillaBookmarksImporter.m;
+		path = "/Users/ian/Public/Drop Box/adium-0.86/Plugins/Bookmarks Importer/SHMozillaBookmarksImporter.m";
+		refType = 0;
+		sourceTree = "<absolute>";
+	};
+	3C4AC93B09708C17007F2254 = {
+		fRef = 5D0B7201096DECEF0065CC84;
+		isa = PBXTextBookmark;
+		name = "BookmarkImporter.m: kNameOfMozillaBookmarksFile";
+		rLen = 0;
+		rLoc = 1253;
+		rType = 0;
+		vrLen = 1474;
+		vrLoc = 8754;
+	};
+	3C4AC94A09708EBF007F2254 = {
+		fRef = 3C4AC905097089C4007F2254;
+		isa = PBXTextBookmark;
+		name = "~/Library/Mozilla/Profiles/default";
+		rLen = 34;
+		rLoc = 1014;
+		rType = 0;
+		vrLen = 1810;
+		vrLoc = 0;
+	};
+	3C4AC94B09708EBF007F2254 = {
+		fRef = 3C4AC81809707CF6007F2254;
+		isa = PBXTextBookmark;
+		name = "SHFireFoxBookmarksImporter.m: 85";
+		rLen = 325;
+		rLoc = 2784;
+		rType = 0;
+		vrLen = 1406;
+		vrLoc = 1697;
+	};
+	3C4AC94C09708EBF007F2254 = {
+		fRef = 3C4AC94D09708EBF007F2254;
+		isa = PBXTextBookmark;
+		name = charEnd;
+		rLen = 7;
+		rLoc = 6258;
+		rType = 0;
+		vrLen = 1453;
+		vrLoc = 5926;
+	};
+	3C4AC94D09708EBF007F2254 = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = SHMozillaCommonParser.m;
+		path = "/Users/ian/Public/Drop Box/adium-0.86/Plugins/Bookmarks Importer/SHMozillaCommonParser.m";
+		refType = 0;
+		sourceTree = "<absolute>";
+	};
+	3C4AC95409708EBF007F2254 = {
+		fRef = 3C4AC95509708EBF007F2254;
+		isa = PBXTextBookmark;
+		name = charEnd;
+		rLen = 7;
+		rLoc = 6258;
+		rType = 0;
+		vrLen = 1453;
+		vrLoc = 5926;
+	};
+	3C4AC95509708EBF007F2254 = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = SHMozillaCommonParser.m;
+		path = "/Users/ian/Public/Drop Box/adium-0.86/Plugins/Bookmarks Importer/SHMozillaCommonParser.m";
+		refType = 0;
+		sourceTree = "<absolute>";
+	};
+	3C4B7ABA0976443200BE886A = {
+		fRef = 3CE2128F0974DC0100BCE121;
+		isa = PBXTextBookmark;
+		name = "ZonicKRM Demo.cpp: 230";
+		rLen = 165;
+		rLoc = 7079;
+		rType = 0;
+		vrLen = 1527;
+		vrLoc = 5973;
+	};
+	3C50ADE00816FF6C003E6073 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {782, 1050}}";
+			sepNavSelRange = "{1146, 88}";
+			sepNavVisRect = "{{0, 466}, {782, 570}}";
+			sepNavWindowFrame = "{{15, 183}, {896, 558}}";
+		};
+	};
+	3C50ADE10816FF6C003E6073 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1724, 6804}}";
+			sepNavSelRange = "{309, 0}";
+			sepNavVisRect = "{{0, 0}, {0, 0}}";
+			sepNavWindowFrame = "{{38, 162}, {896, 558}}";
+		};
+	};
+	3C50AF37081727B7003E6073 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {782, 1078}}";
+			sepNavSelRange = "{1181, 0}";
+			sepNavVisRect = "{{0, 396}, {782, 570}}";
+			sepNavWindowFrame = "{{15, 183}, {896, 558}}";
+		};
+	};
+	3C50C0220975F44F00832952 = {
+		fRef = 3C50C0230975F44F00832952;
+		isa = PBXTextBookmark;
+		name = "(null): 330";
+		rLen = 200;
+		rLoc = 12379;
+		rType = 0;
+		vrLen = 1456;
+		vrLoc = 11797;
+	};
+	3C50C0230975F44F00832952 = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = AIContactController.m;
+		path = "/Users/ian/Public/Drop Box/adium-0.86/Source/AIContactController.m";
+		refType = 0;
+		sourceTree = "<absolute>";
+	};
+	3C58E2D508591095008082E1 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {831, 574}}";
+			sepNavSelRange = "{404, 0}";
+			sepNavVisRect = "{{0, 4}, {831, 570}}";
+		};
+	};
+	3C58E2D608591095008082E1 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {831, 570}}";
+			sepNavSelRange = "{312, 110}";
+			sepNavVisRect = "{{0, 0}, {831, 570}}";
+		};
+	};
+	3C59CC130982F3D3001023F6 = {
+		fRef = 5DF8EE0F07DAD6B400097CCE;
+		isa = PBXTextBookmark;
+		name = "- (void)webView:(WebView *)sender didFailProvisionalLoadWithError:(NSError *)error forFrame:(WebFrame *)frame";
+		rLen = 110;
+		rLoc = 62417;
+		rType = 0;
+		vrLen = 1286;
+		vrLoc = 62415;
+	};
+	3C59CC140982F3D3001023F6 = {
+		fRef = 5DF8EE0F07DAD6B400097CCE;
+		isa = PBXTextBookmark;
+		name = "- (void)webView:(WebView *)sender didFailProvisionalLoadWithError:(NSError *)error forFrame:(WebFrame *)frame";
+		rLen = 110;
+		rLoc = 62417;
+		rType = 0;
+		vrLen = 1286;
+		vrLoc = 62415;
+	};
+	3C59CC190982F45C001023F6 = {
+		fRef = 5DF8EE0F07DAD6B400097CCE;
+		isa = PBXTextBookmark;
+		name = "DeskBrowseController.m: 2147";
+		rLen = 0;
+		rLoc = 62530;
+		rType = 0;
+		vrLen = 0;
+		vrLoc = 0;
+	};
+	3C59CC200982F4C1001023F6 = {
+		fRef = 5DB228F80822ED740000AB62;
+		isa = PBXTextBookmark;
+		name = "Tab.m: 366";
+		rLen = 0;
+		rLoc = 7873;
+		rType = 0;
+		vrLen = 1033;
+		vrLoc = 7274;
+	};
+	3C59CC320982F5C0001023F6 = {
+		fRef = 5DB228F80822ED740000AB62;
+		isa = PBXTextBookmark;
+		name = "Tab.m: 366";
+		rLen = 0;
+		rLoc = 7873;
+		rType = 0;
+		vrLen = 969;
+		vrLoc = 7357;
+	};
+	3C59CC390982F5DB001023F6 = {
+		fRef = 5DB228F80822ED740000AB62;
+		isa = PBXTextBookmark;
+		name = "Tab.m: 366";
+		rLen = 0;
+		rLoc = 7873;
+		rType = 0;
+		vrLen = 969;
+		vrLoc = 7357;
+	};
+	3C59CC3A0982F5DB001023F6 = {
+		fRef = 5DB228F80822ED740000AB62;
+		isa = PBXTextBookmark;
+		name = "Tab.m: 366";
+		rLen = 0;
+		rLoc = 7873;
+		rType = 0;
+		vrLen = 0;
+		vrLoc = 0;
+	};
+	3C6A82690980E3C6003B511E = {
+		fRef = 5D0B71FF096DECEF0065CC84;
+		isa = PBXTextBookmark;
+		name = addBookmarksToPopUpButton;
+		rLen = 25;
+		rLoc = 2183;
+		rType = 0;
+		vrLen = 814;
+		vrLoc = 1759;
+	};
+	3C6A826A0980E3C6003B511E = {
+		fRef = 3C9600E7092D7BAB00C1D3DC;
+		isa = PBXTextBookmark;
+		name = "BookmarkBar.h: mNewIndex";
+		rLen = 0;
+		rLoc = 551;
+		rType = 0;
+		vrLen = 1084;
+		vrLoc = 167;
+	};
+	3C6A826C0980E3C6003B511E = {
+		fRef = 5D0B71FF096DECEF0065CC84;
+		isa = PBXTextBookmark;
+		name = addBookmarksToPopUpButton;
+		rLen = 25;
+		rLoc = 2183;
+		rType = 0;
+		vrLen = 814;
+		vrLoc = 1759;
+	};
+	3C6A82860980E63F003B511E = {
+		fRef = 3CA5088608CAEE650013F386;
+		isa = PBXTextBookmark;
+		name = knobSlotTop;
+		rLen = 11;
+		rLoc = 288;
+		rType = 0;
+		vrLen = 355;
+		vrLoc = 0;
+	};
+	3C6A82BA0980E6A2003B511E = {
+		fRef = 3C6A82620980E3C1003B511E;
+		isa = PBXBookmark;
+	};
+	3C6A82CE0980E750003B511E = {
+		fRef = 3CF8EE71089ACB24007E7678;
+		isa = PBXTextBookmark;
+		name = NSLog;
+		rLen = 5;
+		rLoc = 3742;
+		rType = 0;
+		vrLen = 963;
+		vrLoc = 3581;
+	};
+	3C6A82CF0980E750003B511E = {
+		fRef = 5D0B7205096DECEF0065CC84;
+		isa = PBXTextBookmark;
+		name = "BookmarkObject.m: 27";
+		rLen = 0;
+		rLoc = 449;
+		rType = 0;
+		vrLen = 659;
+		vrLoc = 0;
+	};
+	3C6A82D50980E750003B511E = {
+		fRef = 3CF8EE75089ACB24007E7678;
+		isa = PBXTextBookmark;
+		name = "BookmarkWindowController.m: 44";
+		rLen = 0;
+		rLoc = 734;
+		rType = 0;
+		vrLen = 564;
+		vrLoc = 533;
+	};
+	3C6A83050980E94F003B511E = {
+		fRef = 3CA5088708CAEE650013F386;
+		isa = PBXTextBookmark;
+		name = "BezelScroller.m: 68";
+		rLen = 0;
+		rLoc = 1813;
+		rType = 0;
+		vrLen = 1871;
+		vrLoc = 1112;
+	};
+	3C6A83160980E9A0003B511E = {
+		fRef = 3C50ADE10816FF6C003E6073;
+		isa = PBXTextBookmark;
+		name = "PreferenceController.m: oppositeBoolInt";
+		rLen = 0;
+		rLoc = 309;
+		rType = 0;
+		vrLen = 717;
+		vrLoc = 0;
+	};
+	3C6A832C0980EA52003B511E = {
+		fRef = 5DFCB34C08DDCF0C00B746D7;
+		isa = PBXTextBookmark;
+		name = "RegistrationController.m: 532";
+		rLen = 0;
+		rLoc = 13774;
+		rType = 0;
+		vrLen = 1095;
+		vrLoc = 13297;
+	};
+	3C6A832D0980EA52003B511E = {
+		fRef = 5DFCB34C08DDCF0C00B746D7;
+		isa = PBXTextBookmark;
+		name = "RegistrationController.m: 532";
+		rLen = 0;
+		rLoc = 13774;
+		rType = 0;
+		vrLen = 1095;
+		vrLoc = 13297;
+	};
+	3C70827B09820CDD001E843D = {
+		fRef = 3CC113B50981B52F00B9616F;
+		isa = PBXBookmark;
+	};
+	3C7082B709820F00001E843D = {
+		fRef = 5DB228F80822ED740000AB62;
+		isa = PBXTextBookmark;
+		name = "- (void) drawRect: (NSRect) rect";
+		rLen = 33;
+		rLoc = 4580;
+		rType = 0;
+		vrLen = 517;
+		vrLoc = 3219;
+	};
+	3C729424097F0F010006A4A7 = {
+		fRef = 3CF8EE71089ACB24007E7678;
+		isa = PBXTextBookmark;
+		name = "- (NSArray*) bookmarks";
+		rLen = 23;
+		rLoc = 9236;
+		rType = 0;
+		vrLen = 1635;
+		vrLoc = 3807;
+	};
+	3C72943E097F10350006A4A7 = {
+		fRef = 3C9600F3092D7C1500C1D3DC;
+		isa = PBXTextBookmark;
+		name = "Bookmark.h: kDeleteBookmarkNotification";
+		rLen = 0;
+		rLoc = 330;
+		rType = 0;
+		vrLen = 814;
+		vrLoc = 0;
+	};
+	3C729440097F10350006A4A7 = {
+		fRef = 3C9600E8092D7BAB00C1D3DC;
+		isa = PBXTextBookmark;
+		name = bookmarkDraggedFromIndex;
+		rLen = 24;
+		rLoc = 8461;
+		rType = 0;
+		vrLen = 790;
+		vrLoc = 7737;
+	};
+	3C7755410981E544008DEEF8 = {
+		fRef = 3CBFBCAE0970FDB40042CD55;
+		isa = PBXTextBookmark;
+		name = "RegistrationWindowController.m: 70";
+		rLen = 0;
+		rLoc = 1911;
+		rType = 0;
+		vrLen = 671;
+		vrLoc = 1622;
+	};
+	3C7755460981E544008DEEF8 = {
+		fRef = 5DB228F90822ED740000AB62;
+		isa = PBXTextBookmark;
+		name = "Tab.h: 37";
+		rLen = 124;
+		rLoc = 791;
+		rType = 0;
+		vrLen = 1037;
+		vrLoc = 703;
+	};
+	3C7755650981E7A9008DEEF8 = {
+		fRef = 3C7755660981E7A9008DEEF8;
+		isa = PBXTextBookmark;
+		name = truncatedToWidth;
+		rLen = 16;
+		rLoc = 5519;
+		rType = 0;
+		vrLen = 1335;
+		vrLoc = 4736;
+	};
+	3C7755660981E7A9008DEEF8 = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = Bookmark.m;
+		path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-13-06/Bookmark.m";
+		refType = 0;
+		sourceTree = "<absolute>";
+	};
+	3C77556E0981E7DF008DEEF8 = {
+		fRef = 5DC20F8E09070AE400BD03FF;
+		isa = PBXTextBookmark;
+		name = "#import \"NSStringAdditions.h\"";
+		rLen = 29;
+		rLoc = 147;
+		rType = 0;
+		vrLen = 850;
+		vrLoc = 0;
+	};
+	3C7755F80981F000008DEEF8 = {
+		fRef = 3CF8EE75089ACB24007E7678;
+		isa = PBXTextBookmark;
+		name = "BookmarkWindowController.m: 43";
+		rLen = 0;
+		rLoc = 732;
+		rType = 0;
+		vrLen = 611;
+		vrLoc = 424;
+	};
+	3C7756540981F4AC008DEEF8 = {
+		fRef = 5DB228F90822ED740000AB62;
+		isa = PBXTextBookmark;
+		name = "Tab.h: pointInCloseButton:";
+		rLen = 0;
+		rLoc = 1081;
+		rType = 0;
+		vrLen = 932;
+		vrLoc = 495;
+	};
+	3C9600E7092D7BAB00C1D3DC = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 742}}";
+			sepNavSelRange = "{551, 0}";
+			sepNavVisRect = "{{0, 148}, {770, 568}}";
+			sepNavWindowFrame = "{{15, 183}, {895, 558}}";
+		};
+	};
+	3C9600E8092D7BAB00C1D3DC = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1124, 6090}}";
+			sepNavSelRange = "{1463, 0}";
+			sepNavVisRect = "{{0, 0}, {0, 0}}";
+			sepNavWindowFrame = "{{38, 145}, {895, 558}}";
+		};
+	};
+	3C9600E9092D7BAB00C1D3DC = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 569}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {770, 569}}";
+		};
+	};
+	3C9600EA092D7BAB00C1D3DC = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {920, 1792}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {782, 444}}";
+		};
+	};
+	3C9600F3092D7C1500C1D3DC = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 896}}";
+			sepNavSelRange = "{330, 0}";
+			sepNavVisRect = "{{0, 0}, {770, 568}}";
+		};
+	};
+	3C9600F4092D7C1500C1D3DC = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1628, 5992}}";
+			sepNavSelRange = "{9620, 0}";
+			sepNavVisRect = "{{0, 5418}, {770, 568}}";
+			sepNavWindowFrame = "{{61, 141}, {895, 558}}";
+		};
+	};
+	3C98F93009824B4F009300D5 = {
+		fRef = 5D0B7201096DECEF0065CC84;
+		isa = PBXTextBookmark;
+		name = Safari;
+		rLen = 6;
+		rLoc = 13202;
+		rType = 0;
+		vrLen = 1032;
+		vrLoc = 16503;
+	};
+	3C98F93109824B4F009300D5 = {
+		fRef = 5D0B7203096DECEF0065CC84;
+		isa = PBXTextBookmark;
+		name = "BookmarkImportWindowController.m: 86";
+		rLen = 0;
+		rLoc = 2548;
+		rType = 0;
+		vrLen = 1034;
+		vrLoc = 4837;
+	};
+	3C98F93209824B4F009300D5 = {
+		fRef = 3C4AC66E09706BDF007F2254;
+		isa = PBXTextBookmark;
+		name = "HTMLParser.m: 208";
+		rLen = 0;
+		rLoc = 6192;
+		rType = 0;
+		vrLen = 1060;
+		vrLoc = 75;
+	};
+	3C9DF53D097F61A300097A3F = {
+		fRef = 5DF8EE0F07DAD6B400097CCE;
+		isa = PBXTextBookmark;
+		name = "DeskBrowseController.m: 1818";
+		rLen = 0;
+		rLoc = 52665;
+		rType = 0;
+		vrLen = 1320;
+		vrLoc = 52056;
+	};
+	3C9DF554097F626500097A3F = {
+		fRef = 5DF8EE0E07DAD6B400097CCE;
+		isa = PBXTextBookmark;
+		name = TabController;
+		rLen = 13;
+		rLoc = 3461;
+		rType = 0;
+		vrLen = 1315;
+		vrLoc = 2695;
+	};
+	3C9F8267084FF8CC006E2AD4 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {891, 1036}}";
+			sepNavSelRange = "{907, 13}";
+			sepNavVisRect = "{{0, 406}, {891, 520}}";
+			sepNavWindowFrame = "{{15, 97}, {930, 649}}";
+		};
+	};
+	3C9F8268084FF8CC006E2AD4 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {968, 7658}}";
+			sepNavSelRange = "{4000, 0}";
+			sepNavVisRect = "{{0, 0}, {0, 0}}";
+			sepNavWindowFrame = "{{38, 162}, {895, 558}}";
+		};
+	};
+	3C9F843A08500C56006E2AD4 = {
+		fRef = 5D944F0307E2599400F7CC66;
+		isa = PBXTextBookmark;
+		name = return;
+		rLen = 0;
+		rLoc = 30428;
+		rType = 0;
+		vrLen = 1670;
+		vrLoc = 29325;
+	};
+	3CA039530810BF1200535CEC = {
+		activeArgIndex = 2147483647;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		configStateDict = {
+			"PBXLSLaunchAction-0" = {
+				PBXLSLaunchAction = 0;
+				PBXLSLaunchStartAction = 1;
+				PBXLSLaunchStdioStyle = 2;
+				PBXLSLaunchStyle = 0;
+				class = PBXLSRunLaunchConfig;
+				displayName = "Executable Runner";
+				identifier = com.apple.Xcode.launch.runConfig;
+				remoteHostInfo = "";
+				startActionInfo = "";
+			};
+		};
+		cppStopOnCatchEnabled = 0;
+		cppStopOnThrowEnabled = 0;
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+			{
+				active = YES;
+				name = NSZombieEnabled;
+				value = YES;
+			},
+			{
+				active = YES;
+				name = CFZombieLevel;
+				value = 5;
+			},
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		isa = PBXExecutable;
+		libgmallocEnabled = 0;
+		name = DeskBrowse;
+		savedGlobals = {
+		};
+		shlibInfoDictList_v2 = (
+			{
+				level = 0;
+				path = /usr/lib/system/libmathCommon.A.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /usr/lib/libSystem.B.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /usr/lib/libicucore.A.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /usr/lib/libauto.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /usr/lib/libobjc.A.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/CoreFoundation.framework/Versions/A/CoreFoundation;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /usr/lib/libz.1.2.2.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/SystemConfiguration.framework/Versions/A/SystemConfiguration;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/IOKit.framework/Versions/A/IOKit;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Security.framework/Versions/A/Security;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/DiskArbitration.framework/Versions/A/DiskArbitration;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CFNetwork.framework/Versions/A/CFNetwork;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/WebServicesCore.framework/Versions/A/WebServicesCore;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/CoreServices.framework/Versions/A/CoreServices;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /usr/lib/libbsm.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/CoreGraphics.framework/Versions/A/CoreGraphics;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /usr/lib/libcrypto.0.9.7.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/CoreText.framework/Versions/A/CoreText;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /usr/lib/libcups.2.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/FindByContent.framework/Versions/A/FindByContent;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ImageIO.framework/Versions/A/Resources/libJPEG.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ImageIO.framework/Versions/A/Resources/libJP2.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ImageIO.framework/Versions/A/Resources/libGIF.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ImageIO.framework/Versions/A/Resources/libRaw.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ImageIO.framework/Versions/A/Resources/libTIFF.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ImageIO.framework/Versions/A/Resources/libPng.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ImageIO.framework/Versions/A/Resources/libRadiance.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /usr/lib/libmx.A.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vImage.framework/Versions/A/vImage;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libvMisc.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libvDSP.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libLAPACK.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/vecLib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Accelerate.framework/Versions/A/Accelerate;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ImageIO.framework/Versions/A/ImageIO;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/ApplicationServices;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/CoreAudio.framework/Versions/A/CoreAudio;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/CarbonSound.framework/Versions/A/CarbonSound;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /usr/lib/libiconv.2.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /usr/lib/libxml2.2.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Foundation.framework/Versions/C/Foundation;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/PrivateFrameworks/DesktopServicesPriv.framework/Versions/A/DesktopServicesPriv;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/HIToolbox.framework/Versions/A/HIToolbox;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/SpeechRecognition.framework/Versions/A/SpeechRecognition;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/AudioUnit.framework/Versions/A/AudioUnit;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/AudioToolbox.framework/Versions/A/AudioToolbox;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /usr/lib/libsqlite3.0.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/CoreData.framework/Versions/A/CoreData;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/OpenGL.framework/Versions/A/OpenGL;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLImage.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/QuartzCore.framework/Versions/A/QuartzCore;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/AppKit.framework/Versions/C/AppKit;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Cocoa.framework/Versions/A/Cocoa;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/ImageCapture.framework/Versions/A/ImageCapture;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/SecurityHI.framework/Versions/A/SecurityHI;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/Ink.framework/Versions/A/Ink;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/Help.framework/Versions/A/Help;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/OpenScripting.framework/Versions/A/OpenScripting;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/Print.framework/Versions/A/Print;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/HTMLRendering.framework/Versions/A/HTMLRendering;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/NavigationServices.framework/Versions/A/NavigationServices;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/CommonPanels.framework/Versions/A/CommonPanels;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Carbon.framework/Versions/A/Carbon;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/WebKit.framework/Versions/A/Frameworks/JavaScriptCore.framework/Versions/A/JavaScriptCore;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /usr/lib/libxslt.1.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/WebKit.framework/Versions/A/Frameworks/WebCore.framework/Versions/A/WebCore;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/WebKit.framework/Versions/A/WebKit;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/PrivateFrameworks/ZeroLink.framework/Versions/A/ZeroLink;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 4-18-05/build/DeskBrowse.app/Contents/MacOS/DeskBrowse";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 4-18-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/NDHotKeyEvent.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 4-18-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/UKFirstResponder.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 4-18-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/UKToolbarFactory.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 4-18-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/main.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/CoreGraphics.framework/Versions/A/Resources/libCSync.A.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/CoreGraphics.framework/Versions/A/Resources/libCGATS.A.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 4-18-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/ViewSourceController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 4-18-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/DeskBrowseController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 4-18-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/SlideWindow.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/CoreGraphics.framework/Versions/A/Resources/libRIP.A.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 4-18-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/PreferenceController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 4-18-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/Authorizer.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 4-18-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/DownloadController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 4-18-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/BezelController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 4-18-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/RoundedView.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 4-18-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/SystemProfiler.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 4-18-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/SearchEngineController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Components/DictionaryService.component/Contents/MacOS/DictionaryService;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/PrivateFrameworks/AppleScript.framework/Versions/A/AppleScript;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Components/AppleScript.component/Contents/MacOS/AppleScript;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/System/Library/ScriptingAdditions/Digital Hub Scripting.osax/Contents/MacOS/Digital Hub Scripting";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/PrivateFrameworks/URLMount.framework/Versions/A/URLMount;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/AppleTalk.framework/Versions/A/AppleTalk;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /usr/lib/libresolv.9.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Kerberos.framework/Versions/A/Kerberos;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/AppleShareClientCore.framework/Versions/A/AppleShareClientCore;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/AppleShareClient.framework/Versions/A/AppleShareClient;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/ScriptingAdditions/StandardAdditions.osax/Contents/MacOS/StandardAdditions;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 4-18-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/URLFormatter.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 4-18-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/DownloadObject.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /Developer/Applications/Xcode.app/Contents/PlugIns/GDBMIDebugging.xcplugin/Contents/Resources/PBGDBIntrospectionSupport.A.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-3!-05/build/DeskBrowse.app/Contents/MacOS/DeskBrowse";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-3!-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/NDHotKeyEvent.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-3!-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/UKFirstResponder.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-3!-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/UKToolbarFactory.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-3!-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/main.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-3!-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/SlideWindow.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-3!-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/Authorizer.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-3!-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/TabBar.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-3!-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/FindController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-3!-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/ViewSourceController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-3!-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/DownloadController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-3!-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/BezelController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-3!-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/RoundedView.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-3!-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/DeskBrowseController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-3!-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/SystemProfiler.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-3!-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/SearchEngineController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-3!-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/TabController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-3!-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/Tab.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-3!-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/URLFormatter.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-3-05/build/DeskBrowse.app/Contents/MacOS/DeskBrowse";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-3-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/NDHotKeyEvent.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-3-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/UKFirstResponder.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-3-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/UKToolbarFactory.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-3-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/main.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-3-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/Authorizer.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-3-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/TabBar.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-3-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/FindController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-3-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/ViewSourceController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-3-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/DownloadController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-3-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/BezelController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-3-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/RoundedView.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-3-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/DeskBrowseController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-3-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/SlideWindow.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-3-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/SystemProfiler.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-3-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/SearchEngineController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-3-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/TabController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-3-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/Tab.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-3-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/URLFormatter.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Library/Contextual Menu Items/ABFA Plugin.plugin/Contents/MacOS/ABFA Plugin";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/System/Library/Contextual Menu Items/AutomatorCMM.plugin/Contents/MacOS/AutomatorCMM";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/System/Library/Contextual Menu Items/FolderActionsMenu.plugin/Contents/MacOS/FolderActionsMenu";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/System/Library/Contextual Menu Items/SpotlightCM.plugin/Contents/MacOS/SpotlightCM";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Library/Contextual Menu Items/PGPcontext.plugin/Contents/MacOS/PGPcontext";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-8-05/build/DeskBrowse.app/Contents/MacOS/DeskBrowse";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-8-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/NDHotKeyEvent.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-8-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/UKFirstResponder.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-8-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/UKToolbarFactory.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-8-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/main.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-8-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/DeskBrowseController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-8-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/ViewSourceController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-8-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/SlideWindow.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-8-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/Authorizer.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-8-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/FindController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-8-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/TabBar.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-8-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/DownloadController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-8-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/BezelController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-8-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/RoundedView.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-8-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/SystemProfiler.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-8-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/SearchEngineController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-8-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/TabController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-8-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/Tab.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-8-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/PreferenceController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-8-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/ThemeController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-8-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/ThemeLoader.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-9-05/build/DeskBrowse.app/Contents/MacOS/DeskBrowse";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-9-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/NDHotKeyEvent.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-9-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/UKFirstResponder.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-9-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/UKToolbarFactory.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-9-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/main.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-9-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/DeskBrowseController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-9-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/ViewSourceController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-9-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/SlideWindow.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-9-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/FindController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-9-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/Authorizer.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-9-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/TabBar.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-9-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/DownloadController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-9-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/BezelController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-9-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/RoundedView.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-9-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/SystemProfiler.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-9-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/SearchEngineController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-9-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/TabController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-9-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/Tab.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-9-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/URLFormatter.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/JavaVM.framework/Versions/A/JavaVM;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/SecurityFoundation.framework/Versions/A/SecurityFoundation;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/SecurityInterface.framework/Versions/A/SecurityInterface;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Library/Internet Plug-Ins/JavaPluginCocoa.bundle/Contents/MacOS/JavaPluginCocoa";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/JavaVM.framework/Versions/1.4.2/Libraries/libhotspot.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/JavaVM.framework/Versions/1.4.2/Libraries/libverify.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/JavaVM.framework/Versions/1.4.2/Libraries/libjava.jnilib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/JavaVM.framework/Versions/1.4.2/Libraries/libzip.jnilib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/System/Library/TextEncodings/Unicode Encodings.bundle/Contents/MacOS/Unicode Encodings";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/JavaVM.framework/Versions/1.4.2/Libraries/libfontmanager.jnilib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/JavaVM.framework/Versions/1.4.2/Libraries/libawt.jnilib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/JavaVM.framework/Versions/1.4.2/Libraries/libcmm.jnilib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/JavaVM.framework/Versions/1.4.2/Libraries/libsuncmm.jnilib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/JavaVM.framework/Versions/1.4.2/Libraries/libjpeg.jnilib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/JavaVM.framework/Versions/1.4.2/Libraries/libnet.jnilib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-10-05/build/DeskBrowse.app/Contents/MacOS/DeskBrowse";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-10-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/NDHotKeyEvent.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-10-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/UKFirstResponder.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-10-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/UKToolbarFactory.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-10-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/main.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-10-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/DeskBrowseController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-10-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/SlideWindow.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-10-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/FindController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-10-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/TabBar.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-10-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/Authorizer.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-10-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/DownloadController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-10-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/BezelController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-10-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/RoundedView.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-10-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/ViewSourceController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-10-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/SystemProfiler.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-10-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/SearchEngineController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-10-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/TabController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-10-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/Tab.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-10-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/URLFormatter.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-12-05 FOR TESTING/build/DeskBrowse.app/Contents/MacOS/DeskBrowse";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-12-05 FOR TESTING/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/NDHotKeyEvent.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-12-05 FOR TESTING/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/UKFirstResponder.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-12-05 FOR TESTING/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/UKToolbarFactory.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-12-05 FOR TESTING/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/main.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-12-05 FOR TESTING/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/DeskBrowseController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-12-05 FOR TESTING/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/DownloadsView.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-12-05 FOR TESTING/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/SlideWindow.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-12-05 FOR TESTING/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/Authorizer.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-12-05 FOR TESTING/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/DownloadController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-12-05 FOR TESTING/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/BezelController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-12-05 FOR TESTING/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/RoundedView.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-12-05 FOR TESTING/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/ViewSourceController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-12-05 FOR TESTING/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/TabBar.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-12-05 FOR TESTING/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/FindController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-12-05 FOR TESTING/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/BezelWindow.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-12-05 FOR TESTING/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/SystemProfiler.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-12-05 FOR TESTING/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/SearchEngineController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-12-05 FOR TESTING/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/TabController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-12-05 FOR TESTING/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/Tab.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-12-05 FOR TESTING/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/URLFormatter.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-12-05 FOR TESTING/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/DownloadObject.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-12-05 FOR TESTING/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/WebsposeWindow.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-17-05/build/DeskBrowse.app/Contents/MacOS/DeskBrowse";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-17-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/NDHotKeyEvent.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-17-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/main.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-17-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/FindController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-17-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/WebsposeWindow.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-17-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/TabBar.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-17-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/DeskBrowseController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-17-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/SlideWindow.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-17-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/SearchEngineController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-17-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/TabController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-17-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/Tab.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-17-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/URLFormatter.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-17-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/HistoryController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-17-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/DownloadController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-17-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/BezelController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-17-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/RoundedView.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-17-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/DownloadWindowController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-17-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/BezelWindow.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-17-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/DownloadsView.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-17-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/DownloadObject.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-30-05/build/DeskBrowse.app/Contents/MacOS/DeskBrowse";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-30-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/NDHotKeyEvent.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-30-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/main.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-30-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/DBApplication.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-30-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/TabBar.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-30-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/DeskBrowseController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-30-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/HistoryController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-30-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/DownloadController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-30-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/BezelController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-30-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/RoundedView.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-30-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/WebsposeWindow.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-30-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/SlideWindow.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-30-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/FindController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-30-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/SearchEngineController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-30-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/TabController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 5-30-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/Tab.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 6-03-05/build/DeskBrowse.app/Contents/MacOS/DeskBrowse";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 6-03-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/NDHotKeyEvent.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 6-03-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/main.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 6-03-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/DBApplication.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 6-03-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/DeskBrowseController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 6-03-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/HotKeyController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 6-03-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/HistoryController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 6-03-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/DownloadController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 6-03-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/BezelController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 6-03-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/RoundedView.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 6-03-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/WebsposeWindow.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 6-03-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/SlideWindow.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 6-03-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/FindController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 6-03-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/TabBar.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 6-03-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/SearchEngineController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 6-03-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/TabController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 6-03-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/Tab.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 6-03-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/URLFormatter.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 6-07-05/build/DeskBrowse.app/Contents/MacOS/DeskBrowse";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 6-07-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/NDHotKeyEvent.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 6-07-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/main.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 6-07-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/DBApplication.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 6-07-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/DeskBrowseController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 6-07-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/HotKeyController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 6-07-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/HistoryController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 6-07-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/DownloadController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 6-07-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/BezelController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 6-07-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/RoundedView.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 6-07-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/WebsposeWindow.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 6-07-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/SlideWindow.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 6-07-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/FindController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 6-07-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/TabBar.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 6-07-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/SearchEngineController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 6-07-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/TabController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 6-07-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/Tab.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 6-07-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/URLFormatter.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /usr/lib/dyld;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 6-07-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/HistoryWindowController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 6-07-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/HistoryView.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 6-07-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/BezelWindow.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 6-07-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/KeyStuff.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 7-29-05/build/DeskBrowse.app/Contents/MacOS/DeskBrowse";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 7-29-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/NDHotKeyEvent.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 7-29-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/NSDataExtension.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 7-29-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/NSFileManagerSGSAdditions.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 7-29-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/NSWindow+Fade.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 7-29-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/main.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 7-29-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/DBApplication.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /Library/Frameworks/ApplicationEnhancer.framework/Versions/A/ApplicationEnhancer;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Library/Application Enhancers/Instant Hijack Server.ape/Contents/MacOS/Instant Hijack Server";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 7-29-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/FindController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 7-29-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/SlideWindow.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 7-29-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/WebsposeWindow.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 7-29-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/TabBar.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 7-29-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/DeskBrowseController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 7-29-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/HotKeyController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 7-29-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/HistoryController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 7-29-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/BookmarkController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 7-29-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/DownloadController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 7-29-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/BezelController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 7-29-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/RoundedView.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 7-29-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/ActionMenuWindow.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 7-29-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/ActionMenuView.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 7-29-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/ActionMenuItem.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 7-29-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/SearchEngineController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 7-29-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/TabController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 7-29-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/Tab.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 7-29-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/BookmarkWindowController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 7-29-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/BezelWindow.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Desktop/DeskBrowse/DeskBrowse 7-29-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/BookmarkView.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 9-1-05/build/DeskBrowse.app/Contents/MacOS/DeskBrowse";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 9-1-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/NDHotKeyEvent.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 9-1-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/NSDataExtension.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 9-1-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/NSFileManagerSGSAdditions.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 9-1-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/NSWindow+Fade.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 9-1-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/main.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 9-1-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/DBApplication.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 9-1-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/QuickDownload.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 9-1-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/WebsposeWindow.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 9-1-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/TabBar.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 9-1-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/DeskBrowseController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 9-1-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/HotKeyController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 9-1-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/HistoryController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 9-1-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/BookmarkController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 9-1-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/Bookmark.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 9-1-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/DownloadController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 9-1-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/BezelController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 9-1-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/RoundedView.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 9-1-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/SlideWindow.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 9-1-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/FindController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 9-1-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/ActionMenuWindow.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 9-1-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/ActionMenuView.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 9-1-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/ActionMenuItem.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 9-1-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/SearchEngineController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 9-1-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/TabController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 9-1-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/Tab.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 9-1-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/PreferenceController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 9-1-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/PlistUtils.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 9-1-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/KeyStuff.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 9-1-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/URLFormatter.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 9-1-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/NSWindowFade.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 9-1-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/HistoryWindowController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 9-1-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/HistoryView.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 9-1-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/BezelWindow.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 9-1-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/BezelScroller.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /usr/lib/libz.1.2.3.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 11-16-05/build/DeskBrowse.app/Contents/MacOS/DeskBrowse";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 11-16-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/NDHotKeyEvent.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 11-16-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/NSDataExtension.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 11-16-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/NSFileManagerSGSAdditions.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 11-16-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/NSWindowFade.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 11-16-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/BookmarkController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 11-16-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/BezelOutlineView.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 11-16-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/NSStringAdditions.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 11-16-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/NSBezierPathRoundRects.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 11-16-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/main.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 11-16-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/DBApplication.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Library/Application Enhancers/Mighty Mouse.ape/Contents/MacOS/Mighty Mouse";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Library/Application Enhancers/Instant Hijack Server.ape/Contents/MacOS/Instant Hijack Server";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 11-16-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/RegistrationController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 11-16-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/SubRosa.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 11-16-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/SystemProfiler.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 11-16-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/DeskBrowseController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 11-16-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/HotKeyController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 11-16-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/CocoaMD5.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 11-16-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/md5.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/QuickTime.framework/Versions/A/QuickTime;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Library/QuickTime/DivX 5.component/Contents/MacOS/DivX 5";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/AGL.framework/Versions/A/AGL;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/vecLib.framework/Versions/A/vecLib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/QuickTime/QuickTimeComponents.component/Contents/MacOS/QuickTimeComponents;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 11-16-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/HistoryController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 11-16-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/Bookmark.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 11-16-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/BookmarkBar.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 11-16-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/SlideWindow.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 11-16-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/DownloadController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 11-16-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/BezelController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 11-16-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/ActionMenuWindow.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 11-16-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/ActionMenuView.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 11-16-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/ActionMenuItem.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 11-16-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/TabBar.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 11-16-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/FindController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 11-16-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/WebsposeWindow.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 11-16-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/QuickDownload.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 11-16-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/TabController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 11-16-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/Tab.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 11-16-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/URLFormatter.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 11-16-05/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/ExtraBookmarksMenu.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-6-06/build/DeskBrowse.app/Contents/MacOS/DeskBrowse";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-6-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/NDHotKeyEvent.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-6-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/NSDataExtension.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-6-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/NSFileManagerSGSAdditions.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-6-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/NSWindowFade.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-6-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/BookmarkController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-6-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/BezelOutlineView.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-6-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/NSStringAdditions.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-6-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/NSBezierPathRoundRects.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-6-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/BookmarkImporter.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-6-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/HTMLParser.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-6-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/RegistrationWindowController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-6-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/main.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-6-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/DBApplication.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-6-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/LeveledWindow.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-6-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/WindowLevel.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-6-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/RegistrationController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-6-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/SubRosa.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-6-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/SystemProfiler.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-6-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/BookmarkBar.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-6-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/BookmarkBarPopUpButton.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-6-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/FindController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-6-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/DeskBrowseController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-6-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/HotKeyController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-6-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/CocoaMD5.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-6-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/md5.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-6-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/HistoryController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-6-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/DownloadController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-6-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/BezelController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-6-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/ActionMenuWindow.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-6-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/ActionMenuView.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-6-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/ActionMenuItem.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-6-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/QuickDownload.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-6-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/SlideWindow.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-6-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/WebsposeWindow.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-6-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/TabBar.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /Library/InputManagers/SIMBL/SIMBL.bundle/Contents/MacOS/SIMBL;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-6-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/Bookmark.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-6-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/TabController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-6-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/Tab.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-6-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/LisaHandle.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-6-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/URLFormatter.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/GLUT.framework/Versions/A/GLUT;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/DirectoryService.framework/Versions/A/DirectoryService;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /usr/lib/libsasl2.2.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /usr/lib/libssl.0.9.7.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/LDAP.framework/Versions/A/LDAP;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/PrivateFrameworks/DSObjCWrappers.framework/Versions/A/DSObjCWrappers;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/AddressBook.framework/Versions/A/AddressBook;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Library/Caches/Cleanup At Startup/uk.co.zonic.zonickrm/client_15830_1137049001/ZonicKRM.bundle/Contents/MacOS/ZonicKRM";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/CoreServices/MLTEFile.bundle/Contents/MacOS/MLTEFile;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Library/Caches/Cleanup At Startup/uk.co.zonic.zonickrm/client_16047_1137052919/ZonicKRM.bundle/Contents/MacOS/ZonicKRM";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /usr/lib/libgcc_s.1.0.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-20-06/build/DeskBrowse.app/Contents/MacOS/DeskBrowse";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-20-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/NDHotKeyEvent.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-20-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/NSDataExtension.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-20-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/NSFileManagerSGSAdditions.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-20-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/NSWindowFade.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-20-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/BookmarkController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-20-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/RegistrationController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-20-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/BezelOutlineView.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-20-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/NSStringAdditions.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-20-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/NSBezierPathRoundRects.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-20-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/BookmarkImporter.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-20-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/HTMLParser.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-20-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/main.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-20-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/DBApplication.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-20-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/QuickDownload.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-20-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/LeveledWindow.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-20-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/WindowLevel.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-20-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/TabBar.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-20-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/DeskBrowseController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-20-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/HotKeyController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-20-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/SubRosa.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-20-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/CocoaMD5.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-20-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/md5.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-20-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/SystemProfiler.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-20-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/HistoryController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-20-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/DownloadController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-20-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/BezelController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-20-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/ActionMenuWindow.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-20-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/ActionMenuView.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-20-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/ActionMenuItem.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-20-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/BookmarkBar.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-20-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/BookmarkBarPopUpButton.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-20-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/FindController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-20-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/WebsposeWindow.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-20-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/SlideWindow.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-20-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/Bookmark.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-20-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/TabController.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-20-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/Tab.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse 1-20-06/build/DeskBrowse.build/DeskBrowse.build/Objects-normal/ppc/LisaHandle.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/usr/lib/libstdc++.6.0.3.dylib";
+				whenToLoad = 0;
+			},
+		);
+		sourceDirectories = (
+		);
+	};
+	3CA039760810BF3300535CEC = {
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		isa = PBXSourceControlManager;
+		scmConfiguration = {
+		};
+		scmType = "";
+	};
+	3CA039770810BF3300535CEC = {
+		indexTemplatePath = "";
+		isa = PBXCodeSenseManager;
+	};
+	3CA5088608CAEE650013F386 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 568}}";
+			sepNavSelRange = "{337, 14}";
+			sepNavVisRect = "{{0, 0}, {770, 568}}";
+		};
+	};
+	3CA5088708CAEE650013F386 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1484, 1764}}";
+			sepNavSelRange = "{1926, 0}";
+			sepNavVisRect = "{{0, 728}, {770, 568}}";
+			sepNavWindowFrame = "{{61, 141}, {895, 558}}";
+		};
+	};
+	3CAB9C5A09410E160088047D = {
+		fRef = 3C9F8268084FF8CC006E2AD4;
+		isa = PBXTextBookmark;
+		name = switch;
+		rLen = 6;
+		rLoc = 8843;
+		rType = 0;
+		vrLen = 530;
+		vrLoc = 7875;
+	};
+	3CAB9C88094111C00088047D = {
+		fRef = 3CAB9C89094111C00088047D;
+		isa = PBXTextBookmark;
+		name = "(null): 51";
+		rLen = 277;
+		rLoc = 925;
+		rType = 0;
+		vrLen = 1439;
+		vrLoc = 684;
+	};
+	3CAB9C89094111C00088047D = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = BezelScroller.m;
+		path = "/Users/ian/Projects/Big Projects/DeskBrowse/DeskBrowse Beta Release 1 2/BezelScroller.m";
+		refType = 0;
+		sourceTree = "<absolute>";
+	};
+	3CAD23630834295500D58C16 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {831, 756}}";
+			sepNavSelRange = "{945, 0}";
+			sepNavVisRect = "{{0, 0}, {831, 570}}";
+		};
+	};
+	3CAD23640834295500D58C16 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {836, 570}}";
+			sepNavSelRange = "{203, 18}";
+			sepNavVisRect = "{{0, 0}, {836, 570}}";
+		};
+	};
+	3CBC02D9084D390000715562 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 569}}";
+			sepNavSelRange = "{270, 13}";
+			sepNavVisRect = "{{0, 0}, {770, 569}}";
+			sepNavWindowFrame = "{{15, 219}, {977, 522}}";
+		};
+	};
+	3CBC02DA084D390000715562 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {818, 2464}}";
+			sepNavSelRange = "{3450, 0}";
+			sepNavVisRect = "{{0, 0}, {0, 0}}";
+			sepNavWindowFrame = "{{52, 97}, {930, 649}}";
+		};
+	};
+	3CBFBCAD0970FDB40042CD55 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 826}}";
+			sepNavSelRange = "{284, 17}";
+			sepNavVisRect = "{{0, 0}, {770, 569}}";
+			sepNavWindowFrame = "{{84, 120}, {895, 558}}";
+		};
+	};
+	3CBFBCAE0970FDB40042CD55 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1280, 6090}}";
+			sepNavSelRange = "{1911, 0}";
+			sepNavVisRect = "{{0, 0}, {0, 0}}";
+			sepNavWindowFrame = "{{107, 99}, {895, 558}}";
+		};
+	};
+	3CBFBCB90970FDC70042CD55 = {
+		fRef = 5DFCB34B08DDCF0C00B746D7;
+		isa = PBXTextBookmark;
+		name = "RegistrationController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 647;
+		vrLoc = 0;
+	};
+	3CBFBCD50970FEB00042CD55 = {
+		fRef = 3CBFBCAD0970FDB40042CD55;
+		isa = PBXTextBookmark;
+		name = NSWindowController;
+		rLen = 18;
+		rLoc = 224;
+		rType = 0;
+		vrLen = 272;
+		vrLoc = 0;
+	};
+	3CC113A20981B4E000B9616F = {
+		fRef = 5DC20F6809070ABD00BD03FF;
+		isa = PBXTextBookmark;
+		name = Scroller;
+		rLen = 8;
+		rLoc = 230;
+		rType = 0;
+		vrLen = 1043;
+		vrLoc = 0;
+	};
+	3CC113A50981B4E000B9616F = {
+		fRef = 3C34E37E0835903300EC935B;
+		isa = PBXBookmark;
+	};
+	3CC113A70981B4E000B9616F = {
+		fRef = 5DC20F6809070ABD00BD03FF;
+		isa = PBXTextBookmark;
+		name = Scroller;
+		rLen = 8;
+		rLoc = 230;
+		rType = 0;
+		vrLen = 1043;
+		vrLoc = 0;
+	};
+	3CC113A90981B4E000B9616F = {
+		fRef = 5DB228FC0822ED740000AB62;
+		isa = PBXTextBookmark;
+		name = "TabBar.m: 59";
+		rLen = 0;
+		rLoc = 1119;
+		rType = 0;
+		vrLen = 770;
+		vrLoc = 0;
+	};
+	3CC113AA0981B4E000B9616F = {
+		fRef = 3C34E37E0835903300EC935B;
+		isa = PBXBookmark;
+	};
+	3CC113CE0981B8EB00B9616F = {
+		fRef = 3CC113A00981B4DD00B9616F;
+		isa = PBXBookmark;
+	};
+	3CC113CF0981B8EB00B9616F = {
+		fRef = 3CC113AF0981B52E00B9616F;
+		isa = PBXBookmark;
+	};
+	3CC113D30981B8EB00B9616F = {
+		fRef = 3CC113A00981B4DD00B9616F;
+		isa = PBXBookmark;
+	};
+	3CC113D40981B8EB00B9616F = {
+		fRef = 3CC113AF0981B52E00B9616F;
+		isa = PBXBookmark;
+	};
+	3CCE0D80097CAC6100FE48ED = {
+		fRef = 5D7C11800950C45000D3B426;
+		isa = PBXTextBookmark;
+		name = "WindowLevel.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 533;
+		vrLoc = 0;
+	};
+	3CCE0D8B097CADC100FE48ED = {
+		fRef = 5DCC3E1507DA2E9F00CD28CF;
+		isa = PBXTextBookmark;
+		name = NSBorderlessWindowMask;
+		rLen = 22;
+		rLoc = 1121;
+		rType = 0;
+		vrLen = 731;
+		vrLoc = 890;
+	};
+	3CCE0DE2097CB37700FE48ED = {
+		fRef = 3CBC02DA084D390000715562;
+		isa = PBXTextBookmark;
+		name = initHotKeyController;
+		rLen = 20;
+		rLoc = 3176;
+		rType = 0;
+		vrLen = 734;
+		vrLoc = 2726;
+	};
+	3CCE0E1F098197190059C9A3 = {
+		fRef = 3C23D85308343E89008CF93E;
+		isa = PBXTextBookmark;
+		name = "BezelWindow.m: 135";
+		rLen = 0;
+		rLoc = 3368;
+		rType = 0;
+		vrLen = 994;
+		vrLoc = 137;
+	};
+	3CCE0E21098197190059C9A3 = {
+		fRef = 5DC20F6509070ABD00BD03FF;
+		isa = PBXTextBookmark;
+		name = "BezelButtonCell.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 592;
+		vrLoc = 0;
+	};
+	3CCE0E22098197190059C9A3 = {
+		fRef = 5DC20F6609070ABD00BD03FF;
+		isa = PBXTextBookmark;
+		name = "BezelButtonCell.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 224;
+		vrLoc = 0;
+	};
+	3CCE0E4C098197D80059C9A3 = {
+		fRef = 5DC20F6409070ABD00BD03FF;
+		isa = PBXTextBookmark;
+		name = "BezelDataCell.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 243;
+		vrLoc = 0;
+	};
+	3CCE0E4D098197D80059C9A3 = {
+		fRef = 3CA5088608CAEE650013F386;
+		isa = PBXTextBookmark;
+		name = knobSlotBottom;
+		rLen = 14;
+		rLoc = 337;
+		rType = 0;
+		vrLen = 361;
+		vrLoc = 0;
+	};
+	3CCE0E4E098197D80059C9A3 = {
+		fRef = 5DC20F6A09070ABE00BD03FF;
+		isa = PBXTextBookmark;
+		name = "BezelOutlineView.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 404;
+		vrLoc = 0;
+	};
+	3CCE0E55098197D80059C9A3 = {
+		fRef = 5DC20F6409070ABD00BD03FF;
+		isa = PBXTextBookmark;
+		name = "BezelDataCell.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 243;
+		vrLoc = 0;
+	};
+	3CCE0E57098197D80059C9A3 = {
+		fRef = 5DC20F6A09070ABE00BD03FF;
+		isa = PBXTextBookmark;
+		name = "BezelOutlineView.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 404;
+		vrLoc = 0;
+	};
+	3CCE0E81098198930059C9A3 = {
+		fRef = 3CCE0E11098194390059C9A3;
+		isa = PBXBookmark;
+	};
+	3CCE0ED509819A410059C9A3 = {
+		fRef = 5DC20F6609070ABD00BD03FF;
+		isa = PBXTextBookmark;
+		name = "BezelButtonCell.h: 12";
+		rLen = 0;
+		rLoc = 197;
+		rType = 0;
+		vrLen = 224;
+		vrLoc = 0;
+	};
+	3CCE0ED609819A410059C9A3 = {
+		fRef = 3CF8EE74089ACB24007E7678;
+		isa = PBXTextBookmark;
+		name = "BookmarkWindowController.h: testButton";
+		rLen = 0;
+		rLoc = 368;
+		rType = 0;
+		vrLen = 610;
+		vrLoc = 0;
+	};
+	3CCE0ED909819A410059C9A3 = {
+		fRef = 3CF8EE74089ACB24007E7678;
+		isa = PBXTextBookmark;
+		name = "BookmarkWindowController.h: testButton";
+		rLen = 0;
+		rLoc = 368;
+		rType = 0;
+		vrLen = 610;
+		vrLoc = 0;
+	};
+	3CCE0F2109819D8B0059C9A3 = {
+		fRef = 5DC20F6909070ABD00BD03FF;
+		isa = PBXTextBookmark;
+		name = "BezelDataCell.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1124;
+		vrLoc = 0;
+	};
+	3CCE0F2209819D8B0059C9A3 = {
+		fRef = 3CA5088708CAEE650013F386;
+		isa = PBXTextBookmark;
+		name = "BezelScroller.m: 71";
+		rLen = 0;
+		rLoc = 1926;
+		rType = 0;
+		vrLen = 2415;
+		vrLoc = 1188;
+	};
+	3CCE0F2309819D8B0059C9A3 = {
+		fRef = 5DCC3E1507DA2E9F00CD28CF;
+		isa = PBXTextBookmark;
+		name = "SlideWindow.m: 316";
+		rLen = 0;
+		rLoc = 8658;
+		rType = 0;
+		vrLen = 1207;
+		vrLoc = 7794;
+	};
+	3CCE0F2709819D8B0059C9A3 = {
+		fRef = 5DC20F6909070ABD00BD03FF;
+		isa = PBXTextBookmark;
+		name = "BezelDataCell.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1124;
+		vrLoc = 0;
+	};
+	3CCE0F2E09819DC00059C9A3 = {
+		fRef = 3C23D85308343E89008CF93E;
+		isa = PBXTextBookmark;
+		name = "BezelWindow.m: 107";
+		rLen = 0;
+		rLoc = 2679;
+		rType = 0;
+		vrLen = 1114;
+		vrLoc = 2288;
+	};
+	3CCE0F390981A1760059C9A3 = {
+		fRef = 5DC20F6509070ABD00BD03FF;
+		isa = PBXTextBookmark;
+		name = "BezelButtonCell.m: 12";
+		rLen = 0;
+		rLoc = 206;
+		rType = 0;
+		vrLen = 592;
+		vrLoc = 0;
+	};
+	3CCE0F3A0981A1760059C9A3 = {
+		fRef = 5DC20F6B09070ABE00BD03FF;
+		isa = PBXTextBookmark;
+		name = Scroller;
+		rLen = 8;
+		rLoc = 242;
+		rType = 0;
+		vrLen = 1055;
+		vrLoc = 0;
+	};
+	3CCE0F3E0981A1760059C9A3 = {
+		fRef = 5DC20F6B09070ABE00BD03FF;
+		isa = PBXTextBookmark;
+		name = Scroller;
+		rLen = 8;
+		rLoc = 242;
+		rType = 0;
+		vrLen = 1055;
+		vrLoc = 0;
+	};
+	3CCE6A8008302AED000012F5 = {
+		children = (
+			3CCE6AA108302E8B000012F5,
+			3C2A0973083704AB003410F4,
+			3C9F843A08500C56006E2AD4,
+		);
+		isa = PBXBookmarkGroup;
+		name = Root;
+	};
+	3CCE6AA108302E8B000012F5 = {
+		fRef = 5DF8EE0F07DAD6B400097CCE;
+		isa = PBXBookmark;
+	};
+	3CCEB68B097E179500ADE3CB = {
+		fRef = 5D7C11800950C45000D3B426;
+		isa = PBXTextBookmark;
+		name = "WindowLevel.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 533;
+		vrLoc = 0;
+	};
+	3CCEB68C097E179500ADE3CB = {
+		fRef = 5DCC3E1407DA2E9F00CD28CF;
+		isa = PBXTextBookmark;
+		name = "SlideWindow.h: snapping";
+		rLen = 0;
+		rLoc = 521;
+		rType = 0;
+		vrLen = 980;
+		vrLoc = 0;
+	};
+	3CCEB6A7097E187400ADE3CB = {
+		fRef = 3CBC02D9084D390000715562;
+		isa = PBXTextBookmark;
+		name = NSApplication;
+		rLen = 13;
+		rLoc = 270;
+		rType = 0;
+		vrLen = 448;
+		vrLoc = 0;
+	};
+	3CCEB6AB097E187400ADE3CB = {
+		fRef = 3CBC02D9084D390000715562;
+		isa = PBXTextBookmark;
+		name = NSApplication;
+		rLen = 13;
+		rLoc = 270;
+		rType = 0;
+		vrLen = 448;
+		vrLoc = 0;
+	};
+	3CCEB6B4097E18F100ADE3CB = {
+		fRef = 3CBC02DA084D390000715562;
+		isa = PBXTextBookmark;
+		name = "DBApplication.m: 173";
+		rLen = 0;
+		rLoc = 3450;
+		rType = 0;
+		vrLen = 734;
+		vrLoc = 2726;
+	};
+	3CDAC8D7097F9082007EE735 = {
+		fRef = 5DF8EE0E07DAD6B400097CCE;
+		isa = PBXTextBookmark;
+		name = "DeskBrowseController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 982;
+		vrLoc = 0;
+	};
+	3CDDABDF098230D00064BF17 = {
+		fRef = 5DB228FB0822ED740000AB62;
+		isa = PBXTextBookmark;
+		name = "TabController.h: frameDidChange";
+		rLen = 0;
+		rLoc = 1341;
+		rType = 0;
+		vrLen = 1125;
+		vrLoc = 226;
+	};
+	3CDDAC04098231E10064BF17 = {
+		fRef = 5DB228FB0822ED740000AB62;
+		isa = PBXTextBookmark;
+		name = "TabController.h: frameDidChange";
+		rLen = 0;
+		rLoc = 1341;
+		rType = 0;
+		vrLen = 1127;
+		vrLoc = 224;
+	};
+	3CDDAC05098231E10064BF17 = {
+		fRef = 5DB228FD0822ED740000AB62;
+		isa = PBXTextBookmark;
+		name = "TabBar.h: tabBarImage";
+		rLen = 11;
+		rLoc = 194;
+		rType = 0;
+		vrLen = 233;
+		vrLoc = 0;
+	};
+	3CDDAC07098231E10064BF17 = {
+		fRef = 5DB228FA0822ED740000AB62;
+		isa = PBXTextBookmark;
+		name = viewDidMoveToSuperview;
+		rLen = 0;
+		rLoc = 10332;
+		rType = 0;
+		vrLen = 687;
+		vrLoc = 9934;
+	};
+	3CDDAC09098231E10064BF17 = {
+		fRef = 5DB228FD0822ED740000AB62;
+		isa = PBXTextBookmark;
+		name = "TabBar.h: tabBarImage";
+		rLen = 11;
+		rLoc = 194;
+		rType = 0;
+		vrLen = 233;
+		vrLoc = 0;
+	};
+	3CDDAC32098233B40064BF17 = {
+		fRef = 5DB228FC0822ED740000AB62;
+		isa = PBXTextBookmark;
+		name = "TabBar.m: 37";
+		rLen = 0;
+		rLoc = 719;
+		rType = 0;
+		vrLen = 735;
+		vrLoc = 506;
+	};
+	3CDDAC61098235D00064BF17 = {
+		fRef = 5DB228FA0822ED740000AB62;
+		isa = PBXTextBookmark;
+		name = "TabController.m: 23";
+		rLen = 0;
+		rLoc = 505;
+		rType = 0;
+		vrLen = 1787;
+		vrLoc = 0;
+	};
+	3CDDAC65098235D00064BF17 = {
+		fRef = 3CDDAC53098234B10064BF17;
+		isa = PBXBookmark;
+	};
+	3CDDAC83098237910064BF17 = {
+		fRef = 5D0670B608F1E5EE001097E1;
+		isa = PBXBookmark;
+	};
+	3CDDAC84098237910064BF17 = {
+		fRef = 5D3D1A0408DE30C6005460F5;
+		isa = PBXBookmark;
+	};
+	3CDDAC85098237910064BF17 = {
+		fRef = 5D3D1A0508DE30C6005460F5;
+		isa = PBXBookmark;
+	};
+	3CDDAC86098237910064BF17 = {
+		fRef = 5D1D807308C3F950009A60EB;
+		isa = PBXBookmark;
+	};
+	3CDDAC87098237910064BF17 = {
+		fRef = 5D1D807408C3F950009A60EB;
+		isa = PBXBookmark;
+	};
+	3CDDAC88098237910064BF17 = {
+		fRef = 5D1D807508C3F950009A60EB;
+		isa = PBXBookmark;
+	};
+	3CDDAC89098237910064BF17 = {
+		fRef = 3CDDAC53098234B10064BF17;
+		isa = PBXBookmark;
+	};
+	3CDDAC8A098237910064BF17 = {
+		fRef = 3CDDAC55098234B10064BF17;
+		isa = PBXBookmark;
+	};
+	3CDDAC8B098237910064BF17 = {
+		fRef = 3CDDAC56098234B10064BF17;
+		isa = PBXBookmark;
+	};
+	3CDDAC8C098237910064BF17 = {
+		fRef = 3CDDAC57098234B10064BF17;
+		isa = PBXBookmark;
+	};
+	3CDDAC8D098237910064BF17 = {
+		fRef = 3CCE0E65098198340059C9A3;
+		isa = PBXBookmark;
+	};
+	3CDDAC8E098237910064BF17 = {
+		fRef = 3CCE0E66098198340059C9A3;
+		isa = PBXBookmark;
+	};
+	3CDDAC8F098237910064BF17 = {
+		fRef = 3CCE0E68098198340059C9A3;
+		isa = PBXBookmark;
+	};
+	3CDDAC90098237910064BF17 = {
+		fRef = 3C6A83510980ECEC003B511E;
+		isa = PBXBookmark;
+	};
+	3CDDAC91098237910064BF17 = {
+		fRef = 3C6A82920980E66F003B511E;
+		isa = PBXBookmark;
+	};
+	3CDDAC92098237910064BF17 = {
+		fRef = 5D0D85350860FA36001BD07E;
+		isa = PBXBookmark;
+	};
+	3CDDAC93098237910064BF17 = {
+		fRef = 3C5E43F908356B0800E8F180;
+		isa = PBXBookmark;
+	};
+	3CDDAC94098237910064BF17 = {
+		fRef = 3C5E43FA08356B0800E8F180;
+		isa = PBXBookmark;
+	};
+	3CDDAC95098237910064BF17 = {
+		fRef = 3C58E35A085922D8008082E1;
+		isa = PBXBookmark;
+	};
+	3CDDAC96098237910064BF17 = {
+		fRef = 3C58E35B085922D8008082E1;
+		isa = PBXBookmark;
+	};
+	3CDDAC97098237910064BF17 = {
+		fRef = 3C58E357085922D8008082E1;
+		isa = PBXBookmark;
+	};
+	3CDDAC98098237910064BF17 = {
+		fRef = BA0AAB7608645FE700317BBF;
+		isa = PBXBookmark;
+	};
+	3CDDAC99098237910064BF17 = {
+		fRef = 3C58E359085922D8008082E1;
+		isa = PBXBookmark;
+	};
+	3CDDAC9A098237910064BF17 = {
+		fRef = 3C34E3800835903400EC935B;
+		isa = PBXBookmark;
+	};
+	3CDDAC9B098237910064BF17 = {
+		fRef = 3C34E37F0835903400EC935B;
+		isa = PBXBookmark;
+	};
+	3CDDAC9C098237910064BF17 = {
+		fRef = 5DBAC7DE09467A6B0040AB66;
+		isa = PBXBookmark;
+	};
+	3CDDAC9D098237910064BF17 = {
+		fRef = 5D4888360922D46A00492AC3;
+		isa = PBXBookmark;
+	};
+	3CDDAC9F098237910064BF17 = {
+		fRef = 5D0670B608F1E5EE001097E1;
+		isa = PBXBookmark;
+	};
+	3CDDACA0098237910064BF17 = {
+		fRef = 5D3D1A0408DE30C6005460F5;
+		isa = PBXBookmark;
+	};
+	3CDDACA1098237910064BF17 = {
+		fRef = 5D3D1A0508DE30C6005460F5;
+		isa = PBXBookmark;
+	};
+	3CDDACA2098237910064BF17 = {
+		fRef = 5D1D807308C3F950009A60EB;
+		isa = PBXBookmark;
+	};
+	3CDDACA3098237910064BF17 = {
+		fRef = 5D1D807408C3F950009A60EB;
+		isa = PBXBookmark;
+	};
+	3CDDACA4098237910064BF17 = {
+		fRef = 5D1D807508C3F950009A60EB;
+		isa = PBXBookmark;
+	};
+	3CDDACA6098237910064BF17 = {
+		fRef = 3CDDAC55098234B10064BF17;
+		isa = PBXBookmark;
+	};
+	3CDDACA7098237910064BF17 = {
+		fRef = 3CDDAC56098234B10064BF17;
+		isa = PBXBookmark;
+	};
+	3CDDACA8098237910064BF17 = {
+		fRef = 3CDDAC57098234B10064BF17;
+		isa = PBXBookmark;
+	};
+	3CDDACA9098237910064BF17 = {
+		fRef = 3CCE0E65098198340059C9A3;
+		isa = PBXBookmark;
+	};
+	3CDDACAA098237910064BF17 = {
+		fRef = 3CCE0E66098198340059C9A3;
+		isa = PBXBookmark;
+	};
+	3CDDACAB098237910064BF17 = {
+		fRef = 3CCE0E68098198340059C9A3;
+		isa = PBXBookmark;
+	};
+	3CDDACAC098237910064BF17 = {
+		fRef = 3C6A83510980ECEC003B511E;
+		isa = PBXBookmark;
+	};
+	3CDDACAD098237910064BF17 = {
+		fRef = 3C6A82920980E66F003B511E;
+		isa = PBXBookmark;
+	};
+	3CDDACAE098237910064BF17 = {
+		fRef = 5D0D85350860FA36001BD07E;
+		isa = PBXBookmark;
+	};
+	3CDDACAF098237910064BF17 = {
+		fRef = 3C5E43F908356B0800E8F180;
+		isa = PBXBookmark;
+	};
+	3CDDACB0098237910064BF17 = {
+		fRef = 3C5E43FA08356B0800E8F180;
+		isa = PBXBookmark;
+	};
+	3CDDACB2098237910064BF17 = {
+		fRef = 3C58E35A085922D8008082E1;
+		isa = PBXBookmark;
+	};
+	3CDDACB3098237910064BF17 = {
+		fRef = 3C58E35B085922D8008082E1;
+		isa = PBXBookmark;
+	};
+	3CDDACB4098237910064BF17 = {
+		fRef = 3C58E357085922D8008082E1;
+		isa = PBXBookmark;
+	};
+	3CDDACB5098237910064BF17 = {
+		fRef = BA0AAB7608645FE700317BBF;
+		isa = PBXBookmark;
+	};
+	3CDDACB6098237910064BF17 = {
+		fRef = 3C58E359085922D8008082E1;
+		isa = PBXBookmark;
+	};
+	3CDDACB7098237910064BF17 = {
+		fRef = 3C34E3800835903400EC935B;
+		isa = PBXBookmark;
+	};
+	3CDDACB8098237910064BF17 = {
+		fRef = 3C34E37F0835903400EC935B;
+		isa = PBXBookmark;
+	};
+	3CDDACB9098237910064BF17 = {
+		fRef = 5DBAC7DE09467A6B0040AB66;
+		isa = PBXBookmark;
+	};
+	3CDDACBA098237910064BF17 = {
+		fRef = 5D4888360922D46A00492AC3;
+		isa = PBXBookmark;
+	};
+	3CDDACC3098238BD0064BF17 = {
+		fRef = 3CDDAC81098237840064BF17;
+		isa = PBXBookmark;
+	};
+	3CDDACC4098238BD0064BF17 = {
+		fRef = 3C9600F4092D7C1500C1D3DC;
+		isa = PBXTextBookmark;
+		name = "Bookmark.m: 425";
+		rLen = 0;
+		rLoc = 9620;
+		rType = 0;
+		vrLen = 769;
+		vrLoc = 8858;
+	};
+	3CDDACC5098238BD0064BF17 = {
+		fRef = 3CDDAC81098237840064BF17;
+		isa = PBXBookmark;
+	};
+	3CDDACF7098239EE0064BF17 = {
+		fRef = 3C9600E8092D7BAB00C1D3DC;
+		isa = PBXTextBookmark;
+		name = "BookmarkBar.m: 67";
+		rLen = 0;
+		rLoc = 1463;
+		rType = 0;
+		vrLen = 741;
+		vrLoc = 1211;
+	};
+	3CE212510974D63700BCE121 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 7462}}";
+			sepNavSelRange = "{3077, 0}";
+			sepNavVisRect = "{{0, 5474}, {770, 570}}";
+			sepNavWindowFrame = "{{38, 162}, {895, 558}}";
+		};
+	};
+	3CE212580974D64B00BCE121 = {
+		fRef = 3CE212510974D63700BCE121;
+		isa = PBXTextBookmark;
+		name = "ZonicKRM.h: 3";
+		rLen = 0;
+		rLoc = 32;
+		rType = 0;
+		vrLen = 1056;
+		vrLoc = 0;
+	};
+	3CE2128F0974DC0100BCE121 = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = "ZonicKRM Demo.cpp";
+		path = "/Users/ian/Projects/Kagi/ZonicKRM/Demo/Source/ZonicKRM Demo.cpp";
+		refType = 0;
+		sourceTree = "<absolute>";
+	};
+	3CEF231A081768F700AB0478 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {857, 574}}";
+			sepNavSelRange = "{1823, 0}";
+			sepNavVisRect = "{{0, 145}, {857, 429}}";
+			sepNavWindowFrame = "{{38, 162}, {896, 558}}";
+		};
+	};
+	3CF162CE097DCB130022E886 = {
+		fRef = 3C139270083341C1008D5217;
+		isa = PBXTextBookmark;
+		name = "WebsposeWindow.m: 34";
+		rLen = 0;
+		rLoc = 788;
+		rType = 0;
+		vrLen = 843;
+		vrLoc = 42;
+	};
+	3CF16352097DD5E40022E886 = {
+		fRef = 5D0B7202096DECEF0065CC84;
+		isa = PBXTextBookmark;
+		name = BookmarkController;
+		rLen = 18;
+		rLoc = 589;
+		rType = 0;
+		vrLen = 954;
+		vrLoc = 0;
+	};
+	3CF16357097DD5E40022E886 = {
+		fRef = 5D0B7202096DECEF0065CC84;
+		isa = PBXTextBookmark;
+		name = BookmarkController;
+		rLen = 18;
+		rLoc = 589;
+		rType = 0;
+		vrLen = 954;
+		vrLoc = 0;
+	};
+	3CF163D4097DE0D90022E886 = {
+		fRef = 3C9600E9092D7BAB00C1D3DC;
+		isa = PBXTextBookmark;
+		name = "NSBezierPathRoundRects.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 849;
+		vrLoc = 0;
+	};
+	3CF163D8097DE0D90022E886 = {
+		fRef = 3C9600E9092D7BAB00C1D3DC;
+		isa = PBXTextBookmark;
+		name = "NSBezierPathRoundRects.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 849;
+		vrLoc = 0;
+	};
+	3CF54240097CBBA100D86BA6 = {
+		fRef = 3CBFBCAE0970FDB40042CD55;
+		isa = PBXTextBookmark;
+		name = "RegistrationWindowController.m: 144";
+		rLen = 0;
+		rLoc = 3456;
+		rType = 0;
+		vrLen = 1107;
+		vrLoc = 3244;
+	};
+	3CF8C7AE098086C500C26230 = {
+		fRef = 5D0B7200096DECEF0065CC84;
+		isa = PBXTextBookmark;
+		name = "BookmarkImporter.h: 31";
+		rLen = 0;
+		rLoc = 823;
+		rType = 0;
+		vrLen = 1605;
+		vrLoc = 3;
+	};
+	3CF8EE70089ACB24007E7678 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {782, 1106}}";
+			sepNavSelRange = "{1292, 0}";
+			sepNavVisRect = "{{0, 396}, {782, 444}}";
+		};
+	};
+	3CF8EE71089ACB24007E7678 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1094, 9646}}";
+			sepNavSelRange = "{3742, 5}";
+			sepNavVisRect = "{{0, 2383}, {770, 568}}";
+			sepNavWindowFrame = "{{15, 183}, {895, 558}}";
+		};
+	};
+	3CF8EE74089ACB24007E7678 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 568}}";
+			sepNavSelRange = "{368, 0}";
+			sepNavVisRect = "{{0, 0}, {770, 568}}";
+			sepNavWindowFrame = "{{84, 120}, {895, 558}}";
+		};
+	};
+	3CF8EE75089ACB24007E7678 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 1106}}";
+			sepNavSelRange = "{732, 0}";
+			sepNavVisRect = "{{0, 311}, {770, 568}}";
+			sepNavWindowFrame = "{{38, 162}, {895, 558}}";
+		};
+	};
+	5D026F0D0805777700AD72A3 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {782, 798}}";
+			sepNavSelRange = "{303, 0}";
+			sepNavVisRect = "{{0, 0}, {782, 570}}";
+			sepNavWindowFrame = "{{38, 162}, {896, 558}}";
+		};
+	};
+	5D026F0E0805777700AD72A3 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {964, 5894}}";
+			sepNavSelRange = "{4760, 0}";
+			sepNavVisRect = "{{0, 2650}, {857, 429}}";
+			sepNavWindowFrame = "{{54, 188}, {896, 558}}";
+		};
+	};
+	5D0636FA08DCBE2E0023F84C = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1430, 1036}}";
+			sepNavSelRange = "{1245, 44}";
+			sepNavVisRect = "{{0, 353}, {856, 429}}";
+			sepNavWindowFrame = "{{15, 164}, {895, 558}}";
+		};
+	};
+	5D0B71D2096DEA910065CC84 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {773, 571}}";
+			sepNavSelRange = "{202, 0}";
+			sepNavVisRect = "{{0, 0}, {773, 571}}";
+		};
+	};
+	5D0B71D3096DEA910065CC84 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {830, 714}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 133}, {773, 571}}";
+		};
+	};
+	5D0B71FE096DECEF0065CC84 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 569}}";
+			sepNavSelRange = "{425, 0}";
+			sepNavVisRect = "{{0, 0}, {770, 569}}";
+		};
+	};
+	5D0B71FF096DECEF0065CC84 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1604, 1638}}";
+			sepNavSelRange = "{2183, 25}";
+			sepNavVisRect = "{{0, 913}, {770, 568}}";
+			sepNavWindowFrame = "{{15, 183}, {895, 558}}";
+		};
+	};
+	5D0B7200096DECEF0065CC84 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1064, 700}}";
+			sepNavSelRange = "{823, 0}";
+			sepNavVisRect = "{{0, 14}, {770, 568}}";
+		};
+	};
+	5D0B7201096DECEF0065CC84 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1058, 9618}}";
+			sepNavSelRange = "{13202, 6}";
+			sepNavVisRect = "{{0, 7490}, {770, 568}}";
+			sepNavWindowFrame = "{{38, 162}, {895, 558}}";
+		};
+	};
+	5D0B7202096DECEF0065CC84 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 569}}";
+			sepNavSelRange = "{589, 18}";
+			sepNavVisRect = "{{0, 0}, {770, 569}}";
+			sepNavWindowFrame = "{{15, 183}, {895, 558}}";
+		};
+	};
+	5D0B7203096DECEF0065CC84 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {788, 2898}}";
+			sepNavSelRange = "{2548, 0}";
+			sepNavVisRect = "{{0, 2330}, {770, 568}}";
+			sepNavWindowFrame = "{{15, 183}, {895, 558}}";
+		};
+	};
+	5D0B7204096DECEF0065CC84 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {773, 571}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {773, 571}}";
+		};
+	};
+	5D0B7205096DECEF0065CC84 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 714}}";
+			sepNavSelRange = "{449, 0}";
+			sepNavVisRect = "{{0, 0}, {770, 568}}";
+		};
+	};
+	5D0D85550860FC7F001BD07E = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 570}}";
+			sepNavSelRange = "{364, 0}";
+			sepNavVisRect = "{{0, 0}, {770, 570}}";
+		};
+	};
+	5D0D85560860FC7F001BD07E = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {856, 1036}}";
+			sepNavSelRange = "{288, 42}";
+			sepNavVisRect = "{{0, 0}, {856, 429}}";
+			sepNavWindowFrame = "{{15, 183}, {895, 558}}";
+		};
+	};
+	5D2088C90860D0D1000F5718 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {773, 154}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {0, 0}}";
+		};
+	};
+	5D2799920810646B000F99F6 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {831, 644}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {831, 570}}";
+			sepNavWindowFrame = "{{38, 162}, {750, 558}}";
+		};
+	};
+	5D3424980810256400AC24F4 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {774, 569}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {774, 569}}";
+		};
+	};
+	5D3424990810256400AC24F4 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {854, 980}}";
+			sepNavSelRange = "{867, 16}";
+			sepNavVisRect = "{{0, 0}, {782, 570}}";
+			sepNavWindowFrame = "{{15, 183}, {896, 558}}";
+		};
+	};
+	5D34A70C07DBB1B00085486F = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {828, 547}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {828, 547}}";
+		};
+	};
+	5D34A70D07DBB1B00085486F = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {831, 812}}";
+			sepNavSelRange = "{647, 0}";
+			sepNavVisRect = "{{0, 0}, {831, 570}}";
+		};
+	};
+	5D35750908F98E2000544061 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {856, 429}}";
+			sepNavSelRange = "{235, 37}";
+			sepNavVisRect = "{{0, 0}, {856, 429}}";
+			sepNavWindowFrame = "{{15, 183}, {895, 558}}";
+		};
+	};
+	5D3B595E082122F6002C4537 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {774, 569}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {774, 569}}";
+		};
+	};
+	5D3B595F082122F6002C4537 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {774, 952}}";
+			sepNavSelRange = "{79, 4}";
+			sepNavVisRect = "{{0, 0}, {774, 569}}";
+		};
+	};
+	5D3B596208212303002C4537 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {774, 569}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {774, 569}}";
+		};
+	};
+	5D3B596308212303002C4537 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {774, 569}}";
+			sepNavSelRange = "{75, 4}";
+			sepNavVisRect = "{{0, 0}, {774, 569}}";
+		};
+	};
+	5D5A5673086B3B940029A90C = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {782, 2100}}";
+			sepNavSelRange = "{481, 0}";
+			sepNavVisRect = "{{0, 0}, {782, 570}}";
+			sepNavWindowFrame = "{{38, 162}, {895, 558}}";
+		};
+	};
+	5D7C117C0950C42F00D3B426 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {956, 840}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {770, 569}}";
+		};
+	};
+	5D7C11800950C45000D3B426 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 569}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {770, 569}}";
+		};
+	};
+	5D8BEF300810A3E900ACD580 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {782, 868}}";
+			sepNavSelRange = "{217, 0}";
+			sepNavVisRect = "{{0, 0}, {782, 570}}";
+			sepNavWindowFrame = "{{61, 141}, {750, 558}}";
+		};
+	};
+	5D8BEF310810A3E900ACD580 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {920, 8106}}";
+			sepNavSelRange = "{3366, 0}";
+			sepNavVisRect = "{{0, 0}, {782, 445}}";
+			sepNavWindowFrame = "{{53, 145}, {896, 558}}";
+		};
+	};
+	5D8BEF320810A3E900ACD580 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {782, 980}}";
+			sepNavSelRange = "{472, 0}";
+			sepNavVisRect = "{{0, 406}, {782, 570}}";
+			sepNavWindowFrame = "{{15, 183}, {750, 558}}";
+		};
+	};
+	5D8BEF330810A3E900ACD580 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {836, 3892}}";
+			sepNavSelRange = "{789, 0}";
+			sepNavVisRect = "{{0, 32}, {782, 570}}";
+			sepNavWindowFrame = "{{61, 49}, {750, 558}}";
+		};
+	};
+	5D8CEC7C0866410A00FCB008 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {782, 714}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 270}, {782, 444}}";
+		};
+	};
+	5D944F0207E2599400F7CC66 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2354, 6076}}";
+			sepNavSelRange = "{3068, 0}";
+			sepNavVisRect = "{{0, 644}, {831, 570}}";
+		};
+	};
+	5D944F0307E2599400F7CC66 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1184, 15946}}";
+			sepNavSelRange = "{17123, 17}";
+			sepNavVisRect = "{{0, 9088}, {831, 570}}";
+			sepNavWindowFrame = "{{15, 183}, {750, 558}}";
+		};
+	};
+	5DA898970824911800BF0405 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {774, 569}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {774, 569}}";
+		};
+	};
+	5DA898980824911800BF0405 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {960, 742}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 50}, {960, 672}}";
+		};
+	};
+	5DB09912095A58F6007345BF = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {800, 571}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {773, 571}}";
+		};
+	};
+	5DB228F80822ED740000AB62 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {950, 8092}}";
+			sepNavSelRange = "{7873, 0}";
+			sepNavVisRect = "{{0, 4833}, {770, 568}}";
+			sepNavWindowFrame = "{{107, 99}, {895, 558}}";
+		};
+	};
+	5DB228F90822ED740000AB62 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 1106}}";
+			sepNavSelRange = "{1081, 0}";
+			sepNavVisRect = "{{0, 327}, {770, 568}}";
+			sepNavWindowFrame = "{{38, 162}, {895, 558}}";
+		};
+	};
+	5DB228FA0822ED740000AB62 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {938, 6412}}";
+			sepNavSelRange = "{505, 0}";
+			sepNavVisRect = "{{0, 0}, {770, 568}}";
+			sepNavWindowFrame = "{{61, 141}, {895, 558}}";
+		};
+	};
+	5DB228FB0822ED740000AB62 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 784}}";
+			sepNavSelRange = "{1341, 0}";
+			sepNavVisRect = "{{0, 206}, {770, 568}}";
+		};
+	};
+	5DB228FC0822ED740000AB62 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {773, 924}}";
+			sepNavSelRange = "{719, 0}";
+			sepNavVisRect = "{{0, 0}, {0, 0}}";
+		};
+	};
+	5DB228FD0822ED740000AB62 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 568}}";
+			sepNavSelRange = "{194, 11}";
+			sepNavVisRect = "{{0, 0}, {770, 568}}";
+		};
+	};
+	5DBCF612086F8A9300E0C2C7 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {782, 952}}";
+			sepNavSelRange = "{1126, 4}";
+			sepNavVisRect = "{{0, 0}, {782, 444}}";
+		};
+	};
+	5DC20F6409070ABD00BD03FF = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 568}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {770, 568}}";
+		};
+	};
+	5DC20F6509070ABD00BD03FF = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 568}}";
+			sepNavSelRange = "{206, 0}";
+			sepNavVisRect = "{{0, 0}, {770, 568}}";
+		};
+	};
+	5DC20F6609070ABD00BD03FF = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 568}}";
+			sepNavSelRange = "{197, 0}";
+			sepNavVisRect = "{{0, 0}, {770, 568}}";
+		};
+	};
+	5DC20F6809070ABD00BD03FF = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1058, 1974}}";
+			sepNavSelRange = "{230, 8}";
+			sepNavVisRect = "{{0, 0}, {770, 568}}";
+			sepNavWindowFrame = "{{38, 162}, {895, 558}}";
+		};
+	};
+	5DC20F6909070ABD00BD03FF = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {926, 728}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {770, 568}}";
+		};
+	};
+	5DC20F6A09070ABE00BD03FF = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {773, 364}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {0, 0}}";
+		};
+	};
+	5DC20F6B09070ABE00BD03FF = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 1358}}";
+			sepNavSelRange = "{242, 8}";
+			sepNavVisRect = "{{0, 0}, {770, 568}}";
+			sepNavWindowFrame = "{{15, 183}, {895, 558}}";
+		};
+	};
+	5DC20F8E09070AE400BD03FF = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 616}}";
+			sepNavSelRange = "{147, 29}";
+			sepNavVisRect = "{{0, 0}, {770, 568}}";
+			sepNavWindowFrame = "{{15, 183}, {895, 558}}";
+		};
+	};
+	5DCC3E1407DA2E9F00CD28CF = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 602}}";
+			sepNavSelRange = "{521, 0}";
+			sepNavVisRect = "{{0, 0}, {770, 569}}";
+		};
+	};
+	5DCC3E1507DA2E9F00CD28CF = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1118, 5054}}";
+			sepNavSelRange = "{8658, 0}";
+			sepNavVisRect = "{{0, 4094}, {770, 568}}";
+			sepNavWindowFrame = "{{15, 183}, {750, 558}}";
+		};
+	};
+	5DCD5D5809520F0900EB232A = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {830, 3724}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {773, 571}}";
+		};
+	};
+	5DDB85EE0874641A00D768C4 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {884, 686}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {770, 569}}";
+		};
+	};
+	5DDB8604087464FE00D768C4 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {908, 1330}}";
+			sepNavSelRange = "{226, 0}";
+			sepNavVisRect = "{{0, 0}, {782, 570}}";
+		};
+	};
+	5DDB8605087464FE00D768C4 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {782, 570}}";
+			sepNavSelRange = "{218, 0}";
+			sepNavVisRect = "{{0, 0}, {782, 570}}";
+		};
+	};
+	5DF8EE0E07DAD6B400097CCE = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 2940}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {770, 568}}";
+			sepNavWindowFrame = "{{84, 120}, {750, 558}}";
+		};
+	};
+	5DF8EE0F07DAD6B400097CCE = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1742, 38010}}";
+			sepNavSelRange = "{62530, 0}";
+			sepNavVisRect = "{{0, 0}, {0, 0}}";
+			sepNavWindowFrame = "{{36, 64}, {930, 649}}";
+		};
+	};
+	5DFCB34B08DDCF0C00B746D7 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {770, 700}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {770, 569}}";
+			sepNavWindowFrame = "{{107, 99}, {895, 558}}";
+		};
+	};
+	5DFCB34C08DDCF0C00B746D7 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {956, 9030}}";
+			sepNavSelRange = "{13844, 0}";
+			sepNavVisRect = "{{0, 0}, {0, 0}}";
+			sepNavWindowFrame = "{{84, 120}, {895, 558}}";
+		};
+	};
+	5DFE153207E669500039133F = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {922, 670}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {922, 670}}";
+		};
+	};
+	5DFE153307E669500039133F = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1376, 1750}}";
+			sepNavSelRange = "{1632, 0}";
+			sepNavVisRect = "{{0, 490}, {782, 444}}";
+		};
+	};
+	8D1107260486CEB800E47090 = {
+		activeExec = 0;
+		executables = (
+			3CA039530810BF1200535CEC,
+		);
+	};
+	8D1107310486CEB800E47090 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {808, 516}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {808, 516}}";
+			sepNavWindowFrame = "{{15, 183}, {896, 558}}";
+		};
+	};
+}

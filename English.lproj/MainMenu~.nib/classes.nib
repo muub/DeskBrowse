@@ -1,0 +1,236 @@
+{
+    IBClasses = (
+        {
+            ACTIONS = {menuHandler = id; }; 
+            CLASS = AntiPhisingValidator; 
+            LANGUAGE = ObjC; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {CLASS = AppController; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {CLASS = Authorizer; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {
+            CLASS = BezelWindow; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {textSubview = id; }; 
+            SUPERCLASS = NSWindow; 
+        }, 
+        {CLASS = BookmarkBar; LANGUAGE = ObjC; SUPERCLASS = NSView; }, 
+        {
+            ACTIONS = {
+                addBookmark = id; 
+                back = id; 
+                clearCache = id; 
+                close = id; 
+                closeAllTabs = id; 
+                forward = id; 
+                goHome = id; 
+                googleSearch = id; 
+                loadURL = id; 
+                makeTextLarger = id; 
+                makeTextSmaller = id; 
+                newBlankTab = id; 
+                openLocation = id; 
+                reload = id; 
+                reloadAllTabs = id; 
+                saveCurrentPage = id; 
+                selectTabLeft = id; 
+                selectTabRight = id; 
+                showBookmarkImportWindow = id; 
+                showBookmarkWindow = id; 
+                showDocumentation = id; 
+                showDownloadWindow = id; 
+                showHistoryWindow = id; 
+                showPrefWindow = id; 
+                showQDownloadWindow = id; 
+                showRegistrationWindow = id; 
+                showSourceWindow = id; 
+                stopLoading = id; 
+                toggleActionMenu = id; 
+                toggleBookmarkBar = id; 
+                websposeCancelPassword = id; 
+                websposeEnterPassword = id; 
+            }; 
+            CLASS = DeskBrowseController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                actionMenuButton = NSButton; 
+                back = NSButton; 
+                backMenuItem = NSMenuItem; 
+                bookmarkBar = BookmarkBar; 
+                filler = NSImageView; 
+                forward = NSButton; 
+                forwardMenuItem = NSMenuItem; 
+                home = NSButton; 
+                quickDownloadWindow = NSWindow; 
+                regItem = NSMenuItem; 
+                registrationMenuItem = NSMenuItem; 
+                reload = NSButton; 
+                reloadMenuItem = NSMenuItem; 
+                rightbar = NSImageView; 
+                searchField = NSSearchField; 
+                slideWindow = SlideWindow; 
+                spinner = NSProgressIndicator; 
+                statusField = NSTextField; 
+                stop = NSButton; 
+                stopMenuItem = NSMenuItem; 
+                tabBar = TabBar; 
+                tabBarBox = NSBox; 
+                tabView = NSTabView; 
+                titleField = NSTextField; 
+                urlField = LocationTextField; 
+                webViewBox = NSBox; 
+                webpsoseActionMenuButton = NSButton; 
+                websposeBack = NSButton; 
+                websposeBookmarkBar = BookmarkBar; 
+                websposeForward = NSButton; 
+                websposePasswordField = NSTextField; 
+                websposePasswordStatus = NSTextField; 
+                websposePasswordWindow = NSPanel; 
+                websposeReload = NSButton; 
+                websposeSearchField = NSSearchField; 
+                websposeSpinner = NSProgressIndicator; 
+                websposeStatusField = NSTextField; 
+                websposeStop = NSButton; 
+                websposeTabBarBox = NSBox; 
+                websposeTitleField = NSTextField; 
+                websposeURLField = LocationTextField; 
+                websposeWebViewBox = NSBox; 
+                websposeWindow = WebsposeWindow; 
+            }; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {
+            ACTIONS = {
+                cancelAllDownloads = id; 
+                cancelSelected = id; 
+                deleteAll = id; 
+                deleteSelected = id; 
+                showDownloadInFinder = id; 
+            }; 
+            CLASS = DownloadController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {downloadWindow = NSWindow; downloadsView = DownloadsView; }; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {
+            CLASS = DownloadsView; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {owner = id; }; 
+            SUPERCLASS = NSView; 
+        }, 
+        {
+            ACTIONS = {findPreviousText = id; findText = id; toggleFinding = id; }; 
+            CLASS = FindController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                caseSensitive = NSButton; 
+                controller = DeskBrowseController; 
+                findField = NSTextField; 
+                findLabel = NSTextField; 
+                webposeCaseSensitive = NSButton; 
+                websposeFindField = NSTextField; 
+                websposeFindLabel = NSTextField; 
+            }; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {CLASS = FindPanel; LANGUAGE = ObjC; SUPERCLASS = NSWindow; }, 
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {CLASS = LeveledWindow; LANGUAGE = ObjC; SUPERCLASS = NSWindow; }, 
+        {CLASS = LocationTextField; LANGUAGE = ObjC; SUPERCLASS = NSTextField; }, 
+        {
+            ACTIONS = {reload = id; stopLoading = id; }; 
+            CLASS = NSObjectController; 
+            LANGUAGE = ObjC; 
+            SUPERCLASS = NSController; 
+        }, 
+        {CLASS = PopUpImage; LANGUAGE = ObjC; SUPERCLASS = NSButton; }, 
+        {
+            ACTIONS = {
+                changeHotkey = id; 
+                checkForUpdate = id; 
+                closePrefWindow = id; 
+                moreThemes = id; 
+                resetPreferences = id; 
+                resetTheme = id; 
+                savePrefs = id; 
+                showPrefWindow = id; 
+            }; 
+            CLASS = PreferenceController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                generalBrowserMode = NSPopUpButton; 
+                generalChangeHotKey = NSButton; 
+                generalCheckUpdateNoNew = NSTextField; 
+                generalCheckUpdateNow = NSButton; 
+                generalCheckUpdates = NSButton; 
+                generalCheckUpdatesSpinner = NSProgressIndicator; 
+                generalHome = NSButton; 
+                generalHomePageField = NSTextField; 
+                generalHotKeyField = NSTextField; 
+                generalShowMenu = NSButton; 
+                prefWindow = NSWindow; 
+                savePrefsButton = NSButton; 
+                tabView = NSTabView; 
+                themeDefaultTheme = NSButton; 
+                themeImagePreview = NSImageView; 
+                themeLoadedThemes = NSTableView; 
+                themeMoreThemes = NSButton; 
+                webAnimateGifs = NSButton; 
+                webJava = NSButton; 
+                webJavascript = NSButton; 
+                webPlugins = NSButton; 
+            }; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {
+            ACTIONS = {downloadOrCancel = id; }; 
+            CLASS = QuickDownload; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                URLField = NSTextField; 
+                decodeButton = NSButton; 
+                directoryMatrix = NSMatrix; 
+                downloadCancelButton = NSButton; 
+                openButton = NSButton; 
+                progressIndicator = NSProgressIndicator; 
+            }; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {
+            ACTIONS = {tryregister = id; }; 
+            CLASS = RegistrationController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                codeField = NSTextField; 
+                emailField = NSTextField; 
+                msg = NSTextField; 
+                regButton = NSButton; 
+                spinner = NSProgressIndicator; 
+                window = NSWindow; 
+            }; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {CLASS = SlideWindow; LANGUAGE = ObjC; SUPERCLASS = NSWindow; }, 
+        {CLASS = TabBar; LANGUAGE = ObjC; SUPERCLASS = NSView; }, 
+        {
+            CLASS = UKToolbarFactory; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {owner = NSWindow; }; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {
+            ACTIONS = {refreshTheSourceCode = id; saveCode = id; showSourceWindow = id; }; 
+            CLASS = ViewSourceController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                refreshSourceCode = NSButton; 
+                save = NSButton; 
+                sourceView = NSTextView; 
+                sourceWindow = NSWindow; 
+            }; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {CLASS = WebsposeWindow; LANGUAGE = ObjC; SUPERCLASS = NSWindow; }
+    ); 
+    IBVersion = 1; 
+}

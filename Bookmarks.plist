@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Bookmarks</key>
+	<array>
+		<dict>
+			<key>TitleString</key>
+			<string>DeskBrowse</string>
+			<key>URLString</key>
+			<string>http://www.deskbrowse.com/</string>
+		</dict>
+		<dict>
+			<key>TitleString</key>
+			<string>SGS International</string>
+			<key>URLString</key>
+			<string>http://www.sgs-international.com/</string>
+		</dict>
+		<dict>
+			<key>TitleString</key>
+			<string>Apple</string>
+			<key>URLString</key>
+			<string>http://www.apple.com/</string>
+		</dict>
+		<dict>
+			<key>TitleString</key>
+			<string>Google</string>
+			<key>URLString</key>
+			<string>http://www.google.com/</string>
+		</dict>
+		<dict>
+			<key>TitleString</key>
+			<string>Amazon</string>
+			<key>URLString</key>
+			<string>http://www.amazon.com/</string>
+		</dict>
+		<dict>
+			<key>TitleString</key>
+			<string>eBay</string>
+			<key>URLString</key>
+			<string>http://www.ebay.com/</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+{
+    IBClasses = (
+        {CLASS = BezelWindow; LANGUAGE = ObjC; SUPERCLASS = NSWindow; }, 
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {
+            CLASS = HistoryView; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {delegate = id; }; 
+            SUPERCLASS = NSView; 
+        }, 
+        {
+            ACTIONS = {clear = id; closeWindow = id; load = id; remove = id; }; 
+            CLASS = HistoryWindowController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {historyView = HistoryView; scrollView = NSScrollView; }; 
+            SUPERCLASS = NSWindowController; 
+        }, 
+        {
+            ACTIONS = {clear = id; closeWindow = id; }; 
+            CLASS = NSWindowController; 
+            LANGUAGE = ObjC; 
+            SUPERCLASS = NSResponder; 
+        }
+    ); 
+    IBVersion = 1; 
+}

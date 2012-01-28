@@ -1,0 +1,115 @@
+// !$*UTF8*$!
+{
+	1527F8F708395F7400EA1411 = {
+		comments = "warning: passing arg 1 of `SetSystemUIMode' makes integer from pointer without a cast";
+		fRef = 5DF8EE0F07DAD6B400097CCE;
+		isa = PBXTextBookmark;
+		rLen = 1;
+		rLoc = 251;
+		rType = 1;
+	};
+	1527F8FB08395FC700EA1411 = {
+		fRef = 5DF8EE0F07DAD6B400097CCE;
+		isa = PBXTextBookmark;
+		name = "DeskBrowseController.m: 253";
+		rLen = 0;
+		rLoc = 8593;
+		rType = 0;
+		vrLen = 1666;
+		vrLoc = 7955;
+	};
+	15D9DCA408395EC000D24E38 = {
+		activeArgIndex = 2147483647;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		configStateDict = {
+		};
+		cppStopOnCatchEnabled = 0;
+		cppStopOnThrowEnabled = 0;
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		isa = PBXExecutable;
+		libgmallocEnabled = 0;
+		name = DeskBrowse;
+		shlibInfoDictList_v2 = (
+		);
+		sourceDirectories = (
+		);
+	};
+	15D9DCBD08395EC400D24E38 = {
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		isa = PBXSourceControlManager;
+		scmConfiguration = {
+		};
+		scmType = "";
+	};
+	15D9DCBE08395EC400D24E38 = {
+		indexTemplatePath = "";
+		isa = PBXCodeSenseManager;
+	};
+	29B97313FDCFA39411CA2CEA = {
+		activeBuildStyle = 4A9504CCFFE6A4B311CA0CBA;
+		activeExecutable = 15D9DCA408395EC000D24E38;
+		activeTarget = 8D1107260486CEB800E47090;
+		codeSenseManager = 15D9DCBE08395EC400D24E38;
+		executables = (
+			15D9DCA408395EC000D24E38,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1000,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 137977642;
+			PBXWorkspaceStateSaveDate = 137977642;
+		};
+		perUserProjectItems = {
+			1527F8F708395F7400EA1411 = 1527F8F708395F7400EA1411;
+			1527F8FB08395FC700EA1411 = 1527F8FB08395FC700EA1411;
+		};
+		sourceControlManager = 15D9DCBD08395EC400D24E38;
+		userBuildSettings = {
+		};
+	};
+	5DF8EE0F07DAD6B400097CCE = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1568, 17010}}";
+			sepNavSelRange = "{8593, 0}";
+			sepNavVisRect = "{{0, 3101}, {1453, 841}}";
+		};
+	};
+	8D1107260486CEB800E47090 = {
+		activeExec = 0;
+		executables = (
+			15D9DCA408395EC000D24E38,
+		);
+	};
+}

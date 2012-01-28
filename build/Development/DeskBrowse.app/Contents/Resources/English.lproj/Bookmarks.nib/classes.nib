@@ -1,0 +1,42 @@
+{
+    IBClasses = (
+        {CLASS = BetterOutlineView; LANGUAGE = ObjC; SUPERCLASS = NSOutlineView; }, 
+        {CLASS = BezelTableView; LANGUAGE = ObjC; SUPERCLASS = NSTableView; }, 
+        {CLASS = BezelWindow; LANGUAGE = ObjC; SUPERCLASS = NSWindow; }, 
+        {
+            ACTIONS = {
+                cancel = id; 
+                closeEditWindow = id; 
+                deleteSelectedBookmark = id; 
+                loadSelectedBookmark = id; 
+                ok = id; 
+                openEditWindow = id; 
+            }; 
+            CLASS = BookmarkController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                mBookmarkTableView = NSTableView; 
+                mEditingWindow = NSWindow; 
+                mNewBookmarkWindow = NSPanel; 
+                mOutlineView = NSOutlineView; 
+                mTitleField = NSTextField; 
+            }; 
+            SUPERCLASS = NSWindowController; 
+        }, 
+        {
+            CLASS = BookmarkView; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {delegate = id; }; 
+            SUPERCLASS = NSView; 
+        }, 
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {
+            CLASS = HistoryView; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {delegate = id; }; 
+            SUPERCLASS = NSView; 
+        }, 
+        {CLASS = NSMutableArray; LANGUAGE = ObjC; SUPERCLASS = NSArray; }
+    ); 
+    IBVersion = 1; 
+}

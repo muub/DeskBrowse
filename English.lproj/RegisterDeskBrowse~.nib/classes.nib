@@ -1,0 +1,41 @@
+{
+    IBClasses = (
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {CLASS = LeveledWindow; LANGUAGE = ObjC; SUPERCLASS = NSWindow; }, 
+        {
+            ACTIONS = {
+                closeEnterCodeWindow = id; 
+                closeMainWindow = id; 
+                closeUnregisterWindow = id; 
+                enterRegistrationCode = id; 
+                purchaseDeskBrowse = id; 
+                showEnterCodeWindow = id; 
+                showUnregisterWindow = id; 
+                unregisterDeskBrowse = id; 
+            }; 
+            CLASS = RegistrationWindowController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                mMainEmailField = NSTextField; 
+                mMainMessageField = NSTextField; 
+                mMainNotYetButton = NSButton; 
+                mMainRegistrationStatusTabView = NSTabView; 
+                mMainWaitTimeRemainingField = NSTextField; 
+                mRegisterCancelButton = NSButton; 
+                mRegisterCodeField = NSTextField; 
+                mRegisterEmailField = NSTextField; 
+                mRegisterEnterCodeButton = NSButton; 
+                mRegisterMessageField = NSTextField; 
+                mRegisterProgressSpinner = NSProgressIndicator; 
+                mRegisterWindow = NSPanel; 
+                mUnregisterCancelButton = NSButton; 
+                mUnregisterMessageField = NSTextField; 
+                mUnregisterProgressSpinner = NSProgressIndicator; 
+                mUnregisterUnregisterButton = NSButton; 
+                mUnregisterWindow = NSPanel; 
+            }; 
+            SUPERCLASS = NSWindowController; 
+        }
+    ); 
+    IBVersion = 1; 
+}

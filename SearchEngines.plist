@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>engineName</key>
+		<string>Google US</string>
+		<key>enginePrefix</key>
+		<string>http://www.google.com/search?q=</string>
+		<key>engineSuffix</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>engineName</key>
+		<string>Google Ireland</string>
+		<key>enginePrefix</key>
+		<string>http://www.google.ie/search?q=</string>
+		<key>engineSuffix</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>engineName</key>
+		<string>Yahoo</string>
+		<key>enginePrefix</key>
+		<string>http://search.yahoo.com/search?fr=fp-pull-web-t&amp;p=</string>
+		<key>engineSuffix</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>engineName</key>
+		<string>Alta Vista</string>
+		<key>enginePrefix</key>
+		<string>http://www.altavista.com/web/results?q=</string>
+		<key>engineSuffix</key>
+		<string>&amp;kgs=0&amp;kls=0</string>
+	</dict>
+	<dict>
+		<key>engineName</key>
+		<string>Ask Jeeves</string>
+		<key>enginePrefix</key>
+		<string>http://web.ask.com/web?q=</string>
+		<key>engineSuffix</key>
+		<string>&amp;o=0&amp;qsrc=0</string>
+	</dict>
+</array>
+</plist>
